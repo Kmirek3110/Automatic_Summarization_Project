@@ -1,9 +1,8 @@
 import xml.etree.ElementTree as ET
-import re
 import os
 
 
-class xml_parser:
+class XmlParser:
 
     def __init__(self, directory):
         self.directory = directory
@@ -19,7 +18,7 @@ class xml_parser:
         extracted_summaries = []
         abstract_summaries = []
 
-        for i, child in enumerate(summaries):
+        for child in summaries:
             
             type = child.attrib['type']
             body = child.find("body")
