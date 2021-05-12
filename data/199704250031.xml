@@ -1,0 +1,543 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<text id="199704250031">
+  <date>1997-04-25</date>
+  <title>Nowi użytkownicy, nowe zastosowania</title>
+  <section type="interview">Nauka i Technika</section>
+  <authors>Adam Jamiołkowski</authors>
+  <body>ROZMOWA
+
+Craig R. Barrett, wiceprezes i dyrektor operacyjny Intel Corporation
+
+Nowi użytkownicy,  nowe zastosowania
+
+RYS. MAREK KONECKI
+
+Był pan profesorem Uniwersytetu Stanford, a napisany 25 lat temu podręcznik materiałoznawstwa jest do dziś wykorzystywany na amerykańskich uczelniach technicznych. Dlaczego zrezygnował pan z dalszej kariery naukowej na rzecz biznesu?
+
+CRAIG R. BARRETT: Niektórzy są szczęśliwi prowadząc badania podstawowe. Ja jednak po ponad dziesięciu latach pracy na uniwersytecie poczułem, że jestem tym znudzony. Chciałem znaleźć się wśród tych, którzy odkrycia naukowe zmieniają w konkretne zastosowania. Trafiłem do Intel Corporation, na stanowisko osoby odpowiedzialnej za rozwój technologii. A następnie przez dwadzieścia kilka lat z dnia na dzień coraz rzadziej byłem inżynierem, a coraz częściej - menedżerem. 
+
+Rezultat jest taki, że 21 maja obejmie pan obowiązki prezesa i dyrektora generalnego firmy Intel, zastępując na tym stanowisku legendarnego Andrew Grove'a. To dla pana wielkie wyzwanie i okazja do zaprezentowania własnej strategii rozwoju firmy czy też naturalny rezultat rotacji kadr?
+
+Zawsze kiedy zastępuje się kogoś takiego jak Grove, to jest to wielkie wyzwanie, choćby dlatego, że jego dokonania są tak ogromne, że samo tylko utrzymanie pozycji osiągniętej przez firmę będzie wielkim zadaniem. Od lat pracowaliśmy  razem według zasady, którą ująłbym tak: Andrew zajmuje się tym co chce, a ja - wszystkimi pozostałymi sprawami. Teraz będzie podobnie, z tym, że ponieważ obejmuje on stanowisko prezesa rady nadzorczej, to prawdopodobnie zmieni się nieco podział obowiązków. Jednak jeśli idzie o strategię i organizację firmy, to uważam, że wszystko jest w porządku i tu nie należy oczekiwać znaczących zmian. 
+
+Czyli nadal pozostajecie wierni przewidywaniom zawartym w prawie Moore'a, które głosi, iż liczba tranzystorów w procesorze będzie podwajać się co 18 - 24 miesiące? Nie obawia się pan, że może dojść do załamania tego procesu rozwojowego? 
+
+Od z górą trzydziestu lat prawo sformułowane przez założyciela naszej firmy potwierdza swą słuszność z idealną niemal precyzją i nic nie wskazuje na to, by przynajmniej w ciągu najbliższych 15 - 20 lat miało być inaczej. Do osiągnięcia limitów wyznaczanych przez fizykę jest jeszcze bardzo daleko. Gdy pytają mnie, jak będzie wyglądał średniej klasy komputer w okolicach roku 2010 odpowiadam: jego procesor będzie miał ok. 1 mld tranzystorów, pracował będzie z zegarem 10 GHz i wykonywał ok. 200 mld instrukcji na sekundę. 
+
+Ale czy rzeczywiście takie komputery będą potrzebne?
+
+Dotychczasowe doświadczenie pokazuje, że nie ma co do tego najmniejszych wątpliwości. Tempo rozwoju jest wspaniałe, ale równie szybko rosną oczekiwania użytkowników, którzy wciąż żądają od nas, byśmy dostarczali rozwiązań silniejszych, lepszych i tańszych. Wzrost możliwości obliczeniowych procesorów umożliwi powstanie i zastosowanie ogromnej liczby bardzo wymagających programów użytkowych. Aplikacje te nie tylko zmienią sposób komunikowania się ludzi ze sobą, ale także stworzą nowe możliwości zastosowań komputera w pracy i w domu. Zmiany w asortymencie dostępnych produktów i usług, jakie nastąpią w wyniku rozpoczętego już procesu połączenia przemysłu komputerowego i telekomunikacyjnego będą zaiste ogromne. Dźwięk, sekwencje wideo, funkcje konferencyjne komputera będą dostępne dla każdego, przybliżając ludzi i pozwalając im współpracować ze sobą ściślej niż kiedykolwiek wcześniej. Techniki rozpoznawania mowy i pisma odręcznego, lokalne sterowanie złożonymi aplikacjami internetowymi i generowanie w czasie rzeczywistym trójwymiarowych animacji, takich jak choćby "Park Jurajski", będą możliwe na każdym komputerze osobistym. Użytkownicy komputerów domowych będą mogli obejrzeć na ekranie monitora i wydrukować zdjęcie zrobione aparatem cyfrowym, przetworzyć je za pomocą specjalnego oprogramowania potrafiącego automatycznie polepszyć ich jakość i skorygować błędy (czerwone oczy, prześwietlone tło), a następnie umieścić je w rodzinnym biuletynie lub na stronach sieci WWW. 
+
+Spotkałem się z opinią, że Intel osiągając ponadosiemdziesięcioprocentowy udział w rynku mikroprocesorów znalazł się w swego rodzaju pułapce. Teraz, aby rozwijać się dalej, musicie albo znaleźć nowe rynki, albo  zacząć działać na innych polach. Który wariant wybieracie?
+
+Obydwa. Od dawna działamy w myśl zasady "new uses, new users" (nowe zastosowania, nowi użytkownicy). W tej chwili w USA realizujemy już tylko 40 proc. obrotów i coraz intensywniej rozwijamy operacje w odległych częściach świata. W Polsce wzrost sprzedaży komputerów kształtuje się na poziomie 35 proc., a w Chinach, Indiach czy Brazylii jest jeszcze dwukrotnie większy. Wyciągamy z tego wnioski, zresztą jak można się domyślić - przy całym szacunku dla waszego kraju - nie przyjechałem tutaj po to, by podziwiać krajobrazy. Chodzi o to, by także tutaj znaleźć nowych użytkowników. Jeśli zaś idzie o zastosowania  Nadal jesteśmy rozpoznawani przede wszystkim jako producent mikroprocesorów do komputerów osobistych. Jest to oczywiście prawda, ale sedno naszej działalności stanowi znajdowanie nowych zastosowań dla tych komputerów. Sprawa jest prosta - nasz sukces uzależniony jest bezpośrednio od powodzenia rynku komputerowego jako całości. Dlatego właśnie od lat zaangażowani jesteśmy w tworzenie rozwiązań komunikacyjnych, jak choćby Ethernet 100 Mb. Dlatego doprowadziliśmy do tego, by można było odbywać wideokonferencji za pośrednictwem zwykłych, analogowych łączy telefonicznych. Dlatego - wspólnie z Microsoftem - opracowaliśmy specyfikację komputera sieciowego NetPC, która pozwoli radykalnie usprawnić zarządzanie sieciami i zmniejszyć koszty użytkowania komputerów. I dlatego też włożyliśmy dużo pracy, by móc wykazać, że język programowania Java - pozwalający na obsługę starych baz danych za pośrednictwem sieci intranetowych - najszybciej wykonywany jest w architekturze Intela. Nie wchodząc już dalej w szczegóły techniczne mogę powiedzieć, że rocznie inwestujemy około 1 mln dolarów w małe i bardzo małe firmy komputerowe, które zajmują się właśnie wyszukiwaniem nowych zastosowań.
+
+Jest pan także przewodniczącym Rady ds. Technologii Półprzewodnikowych przy amerykańskim Departamencie Handlu. Na miejscu będzie więc pytanie następujące: dlaczego międzynarodowe firmy informatyczne zwlekają z poważnym inwestowaniem w naszej części Europy? Przemysł samochodowy już się na to zdecydował, przykładem choćby zaangażowanie General Motors w Polsce, a wy wciąż się - powiedzmy - ociągacie?
+
+To nie jest właściwe słowo. Jesteśmy dopiero na etapie początkowym. Po pierwsze - musi zostać zachowany naturalny porządek rzeczy. Najpierw muszą istnieć wytwórcy komputerów - tych już macie, i są to polskie firmy działające na bardzo dobrym poziomie. Potem - pojawią się wytwórcy płyt głównych, komponentów, wyposażenia itd. Dopiero wtedy, gdy pojawi się już rzeczywiste zapotrzebowanie, można myśleć o otwieraniu np. fabryki układów mikroprocesorowych pracującej na potrzeby danego rynku. Po drugie - fabryka taka wymaga idealnego zasilania w energię, idealnej wody, dostaw gazów technicznych o najwyższych parametrach, słowem - osadzenia w infrastrukturze najwyższej jakości. Osiągnięcie tego także wymaga czasu. Nie sztuką jest zainwestować w fabrykę 2 mld dolarów, a potem nie być w stanie wykorzystać jej możliwości. 
+
+Tymczasem musimy więc importować mikroprocesory i pamięci. Wie pan o tym, że polscy wytwórcy komputerów płacą cło importowe?
+
+Wiem i rozmawiałem o tym w Polsce wielokrotnie, w tym także z waszym prezydentem. Uważam, że jest to rodzaj nieuzasadnionej kary nałożonej na polskich producentów. Taki stan rzeczy, promujący firmy zagraniczne, jest dla mnie zdumiewający. Dodam, że także dla nas jest to spory kłopot. Bariery celne skłaniają bowiem słabsze firmy do szukania dostawców w tzw. szarej strefie, co oprócz strat dla budżetu waszego państwa, również nas naraża na straty - jeśli nie materialne, to na pewno moralne. Są bowiem także firmy oszukańcze, które odsprzedają nasze komponenty zmieniwszy wcześniej np. oznaczenie szybkości zegara procesora. Części te nie spełniają oczekiwań użytkownika, a odium - spada na nas. Próbujemy aktywnie temu przeciwdziałać, ale najprostszym zabiegiem byłoby po prostu zniesienie szkodliwych barier.
+
+rozmawiał Adam Jamiołkowski</body>
+  <summaries>
+    <summary ratio="10" type="extract" author="F">
+      <body>po latach pracy na uniwersytecie poczułem, że jestem tym znudzony. Chciałem znaleźć się wśród tych, którzy odkrycia naukowe zmieniają w konkretne zastosowania. Trafiłem do Intel Corporation. Rezultat jest taki, że obejmie pan obowiązki prezesa i dyrektora generalnego Intel, zastępując na tym stanowisku legendarnego Andrew Grove'a. jeśli idzie o strategię i organizację firmy, to uważam, że wszystko jest w porządku i tu nie należy oczekiwać znaczących zmian. Tempo rozwoju jest wspaniałe, ale równie szybko rosną oczekiwania użytkowników. Od dawna działamy w myśl zasady "new uses, new users". W tej chwili w USA realizujemy już tylko 40 proc. obrotów i coraz intensywniej rozwijamy operacje w odległych częściach świata. sedno naszej działalności stanowi znajdowanie nowych zastosowań dla komputerów.</body>
+      <spans>
+        <span start="454" end="457">po </span>
+        <span start="474" end="660">latach pracy na uniwersytecie poczułem, że jestem tym znudzony. Chciałem znaleźć się wśród tych, którzy odkrycia naukowe zmieniają w konkretne zastosowania. Trafiłem do Intel Corporation</span>
+        <span start="719" end="721">. </span>
+        <span start="843" end="866">Rezultat jest taki, że </span>
+        <span start="874" end="927">obejmie pan obowiązki prezesa i dyrektora generalnego</span>
+        <span start="933" end="999"> Intel, zastępując na tym stanowisku legendarnego Andrew Grove'a. </span>
+        <span start="1628" end="1756">jeśli idzie o strategię i organizację firmy, to uważam, że wszystko jest w porządku i tu nie należy oczekiwać znaczących zmian. </span>
+        <span start="2662" end="2740">Tempo rozwoju jest wspaniałe, ale równie szybko rosną oczekiwania użytkowników</span>
+        <span start="2831" end="2833">. </span>
+        <span start="4346" end="4399">Od dawna działamy w myśl zasady "new uses, new users"</span>
+        <span start="4437" end="4567">. W tej chwili w USA realizujemy już tylko 40 proc. obrotów i coraz intensywniej rozwijamy operacje w odległych częściach świata. </span>
+        <span start="5084" end="5152">sedno naszej działalności stanowi znajdowanie nowych zastosowań dla </span>
+        <span start="5157" end="5168">komputerów.</span>
+      </spans>
+    </summary>
+    <summary ratio="20" type="extract" author="F">
+      <body>Niektórzy są szczęśliwi prowadząc badania podstawowe. Ja jednak po ponad dziesięciu latach pracy na uniwersytecie poczułem, że jestem tym znudzony. Chciałem znaleźć się wśród tych, którzy odkrycia naukowe zmieniają w konkretne zastosowania. Trafiłem do Intel Corporation, na stanowisko osoby odpowiedzialnej za rozwój technologii. A następnie przez dwadzieścia kilka lat z dnia na dzień coraz rzadziej byłem inżynierem, a coraz częściej - menedżerem. 
+Rezultat jest taki, że 21 maja obejmie pan obowiązki prezesa i dyrektora generalnego firmy Intel, zastępując na tym stanowisku legendarnego Andrew Grove'a. jeśli idzie o strategię i organizację firmy, to uważam, że wszystko jest w porządku i tu nie należy oczekiwać znaczących zmian. Tempo rozwoju jest wspaniałe, ale równie szybko rosną oczekiwania użytkowników. Zmiany w asortymencie dostępnych produktów i usług, jakie nastąpią w wyniku rozpoczętego już procesu połączenia przemysłu komputerowego i telekomunikacyjnego będą zaiste ogromne. Techniki rozpoznawania mowy i pisma odręcznego, lokalne sterowanie złożonymi aplikacjami internetowymi i generowanie w czasie rzeczywistym trójwymiarowych animacji, takich jak choćby "Park Jurajski", będą możliwe na każdym komputerze osobistym. Od dawna działamy w myśl zasady "new uses, new users". W tej chwili w USA realizujemy już tylko 40 proc. obrotów i coraz intensywniej rozwijamy operacje w odległych częściach świata. Jeśli idzie o zastosowania  Nadal jesteśmy rozpoznawani przede wszystkim jako producent mikroprocesorów do komputerów osobistych. Jest to oczywiście prawda, ale sedno naszej działalności stanowi znajdowanie nowych zastosowań dla tych komputerów.</body>
+      <spans>
+        <span start="390" end="842">Niektórzy są szczęśliwi prowadząc badania podstawowe. Ja jednak po ponad dziesięciu latach pracy na uniwersytecie poczułem, że jestem tym znudzony. Chciałem znaleźć się wśród tych, którzy odkrycia naukowe zmieniają w konkretne zastosowania. Trafiłem do Intel Corporation, na stanowisko osoby odpowiedzialnej za rozwój technologii. A następnie przez dwadzieścia kilka lat z dnia na dzień coraz rzadziej byłem inżynierem, a coraz częściej - menedżerem. 
+</span>
+        <span start="843" end="999">Rezultat jest taki, że 21 maja obejmie pan obowiązki prezesa i dyrektora generalnego firmy Intel, zastępując na tym stanowisku legendarnego Andrew Grove'a. </span>
+        <span start="1628" end="1756">jeśli idzie o strategię i organizację firmy, to uważam, że wszystko jest w porządku i tu nie należy oczekiwać znaczących zmian. </span>
+        <span start="2662" end="2740">Tempo rozwoju jest wspaniałe, ale równie szybko rosną oczekiwania użytkowników</span>
+        <span start="2831" end="2833">. </span>
+        <span start="3113" end="3292">Zmiany w asortymencie dostępnych produktów i usług, jakie nastąpią w wyniku rozpoczętego już procesu połączenia przemysłu komputerowego i telekomunikacyjnego będą zaiste ogromne. </span>
+        <span start="3469" end="3714">Techniki rozpoznawania mowy i pisma odręcznego, lokalne sterowanie złożonymi aplikacjami internetowymi i generowanie w czasie rzeczywistym trójwymiarowych animacji, takich jak choćby "Park Jurajski", będą możliwe na każdym komputerze osobistym. </span>
+        <span start="4346" end="4399">Od dawna działamy w myśl zasady "new uses, new users"</span>
+        <span start="4437" end="4567">. W tej chwili w USA realizujemy już tylko 40 proc. obrotów i coraz intensywniej rozwijamy operacje w odległych częściach świata. </span>
+        <span start="4919" end="4925">Jeśli </span>
+        <span start="4929" end="5168">idzie o zastosowania  Nadal jesteśmy rozpoznawani przede wszystkim jako producent mikroprocesorów do komputerów osobistych. Jest to oczywiście prawda, ale sedno naszej działalności stanowi znajdowanie nowych zastosowań dla tych komputerów.</span>
+      </spans>
+    </summary>
+    <summary ratio="5" type="extract" author="F">
+      <body>obejmie pan obowiązki prezesa i dyrektora generalnego Intel. jeśli idzie o strategię i organizację firmy, to uważam, że wszystko jest w porządku i tu nie należy oczekiwać znaczących zmian. Tempo rozwoju jest wspaniałe, ale równie szybko rosną oczekiwania użytkowników. Od dawna działamy w myśl zasady "new uses, new users". sedno naszej działalności stanowi znajdowanie nowych zastosowań dla komputerów.</body>
+      <spans>
+        <span start="874" end="927">obejmie pan obowiązki prezesa i dyrektora generalnego</span>
+        <span start="933" end="939"> Intel</span>
+        <span start="997" end="999">. </span>
+        <span start="1628" end="1756">jeśli idzie o strategię i organizację firmy, to uważam, że wszystko jest w porządku i tu nie należy oczekiwać znaczących zmian. </span>
+        <span start="2662" end="2740">Tempo rozwoju jest wspaniałe, ale równie szybko rosną oczekiwania użytkowników</span>
+        <span start="2831" end="2833">. </span>
+        <span start="4346" end="4399">Od dawna działamy w myśl zasady "new uses, new users"</span>
+        <span start="4437" end="4439">. </span>
+        <span start="5084" end="5152">sedno naszej działalności stanowi znajdowanie nowych zastosowań dla </span>
+        <span start="5157" end="5168">komputerów.</span>
+      </spans>
+    </summary>
+    <summary ratio="10" type="extract" author="G">
+      <body>Dlaczego zrezygnował pan z kariery naukowej na rzecz biznesu?
+
+CRAIG R. BARRETT: po ponad dziesięciu latach pracy na uniwersytecie poczułem, że jestem znudzony. Chciałem znaleźć się wśród tych, którzy odkrycia naukowe zmieniają w konkretne zastosowania. Trafiłem do Intel Corporation, na stanowisko osoby odpowiedzialnej za rozwój technologii. byłem coraz częściej menedżerem. 
+
+Rezultat jest taki, że obejmie pan obowiązki dyrektora generalnego firmy Intel.
+
+utrzymanie pozycji osiągniętej przez firmę będzie wielkim zadaniem. jeśli idzie o strategię i organizację firmy, nie należy oczekiwać znaczących zmian.
+
+aby rozwijać się, musicie znaleźć nowe rynki albo zacząć działać na innych polach.
+
+działamy w myśl zasady nowe zastosowania, nowi użytkownicy. rocznie inwestujemy około 1 mln dolarów w małe firmy komputerowe, które zajmują się wyszukiwaniem nowych zastosowań.</body>
+      <spans>
+        <span start="301" end="328">Dlaczego zrezygnował pan z </span>
+        <span start="336" end="390">kariery naukowej na rzecz biznesu?
+
+CRAIG R. BARRETT: </span>
+        <span start="454" end="524">po ponad dziesięciu latach pracy na uniwersytecie poczułem, że jestem </span>
+        <span start="528" end="721">znudzony. Chciałem znaleźć się wśród tych, którzy odkrycia naukowe zmieniają w konkretne zastosowania. Trafiłem do Intel Corporation, na stanowisko osoby odpowiedzialnej za rozwój technologii. </span>
+        <span start="792" end="798">byłem </span>
+        <span start="812" end="827">coraz częściej </span>
+        <span start="829" end="866">menedżerem. 
+
+Rezultat jest taki, że </span>
+        <span start="874" end="896">obejmie pan obowiązki </span>
+        <span start="906" end="939">dyrektora generalnego firmy Intel</span>
+        <span start="997" end="998">.</span>
+        <span start="1128" end="1130">
+
+</span>
+        <span start="1275" end="1342">utrzymanie pozycji osiągniętej przez firmę będzie wielkim zadaniem.</span>
+        <span start="1627" end="1673"> jeśli idzie o strategię i organizację firmy, </span>
+        <span start="1717" end="1755">nie należy oczekiwać znaczących zmian.</span>
+        <span start="4064" end="4066">
+
+</span>
+        <span start="4215" end="4231">aby rozwijać się</span>
+        <span start="4237" end="4247">, musicie </span>
+        <span start="4252" end="4270">znaleźć nowe rynki</span>
+        <span start="4271" end="4276"> albo</span>
+        <span start="4277" end="4310"> zacząć działać na innych polach.</span>
+        <span start="4336" end="4338">
+
+</span>
+        <span start="4355" end="4378">działamy w myśl zasady </span>
+        <span start="4401" end="4436">nowe zastosowania, nowi użytkownicy</span>
+        <span start="4437" end="4438">.</span>
+        <span start="5189" end="5190"> </span>
+        <span start="5997" end="6044">rocznie inwestujemy około 1 mln dolarów w małe </span>
+        <span start="6058" end="6095">firmy komputerowe, które zajmują się </span>
+        <span start="6103" end="6135">wyszukiwaniem nowych zastosowań.</span>
+      </spans>
+    </summary>
+    <summary ratio="20" type="extract" author="G">
+      <body>Dlaczego zrezygnował pan z kariery naukowej na rzecz biznesu?
+
+CRAIG R. BARRETT: po ponad dziesięciu latach pracy na uniwersytecie poczułem, że jestem znudzony. Chciałem znaleźć się wśród tych, którzy odkrycia naukowe zmieniają w konkretne zastosowania. Trafiłem do Intel Corporation, na stanowisko osoby odpowiedzialnej za rozwój technologii. byłem coraz częściej menedżerem. 
+
+Rezultat jest taki, że obejmie pan obowiązki dyrektora generalnego firmy Intel. To wielkie wyzwanie czy naturalny rezultat rotacji kadr?
+
+to wielkie wyzwanie, utrzymanie pozycji osiągniętej przez firmę będzie wielkim zadaniem. jeśli idzie o strategię i organizację firmy, nie należy oczekiwać znaczących zmian.Tempo rozwoju jest wspaniałe, ale równie szybko rosną oczekiwania użytkowników, którzy żądają, byśmy dostarczali rozwiązań silniejszych, lepszych i tańszych.
+
+aby rozwijać się dalej, musicie albo znaleźć nowe rynki, albo zacząć działać na innych polach. Który wariant wybieracie?
+
+Obydwa. działamy w myśl zasady nowe zastosowania, nowi użytkownicy. nasz sukces uzależniony jest bezpośrednio od powodzenia rynku komputerowego jako całości. rocznie inwestujemy około 1 mln dolarów w małe firmy komputerowe, które zajmują się wyszukiwaniem nowych zastosowań.
+
+dlaczego międzynarodowe firmy informatyczne zwlekają z inwestowaniem w naszej części Europy?
+
+Najpierw muszą istnieć wytwórcy komputerów. Potem pojawią się wytwórcy płyt głównych, komponentów, wyposażenia. Dopiero wtedy można myśleć o otwieraniu np. fabryki układów mikroprocesorowych pracującej na potrzeby danego rynku.
+
+polscy wytwórcy komputerów płacą cło importowe
+Wiem i rozmawiałem o tym w Polsce wielokrotnie. Uważam, że jest to rodzaj nieuzasadnionej kary nałożonej na polskich producentów. Bariery celne skłaniają słabsze firmy do szukania dostawców w tzw. szarej strefie.</body>
+      <spans>
+        <span start="301" end="328">Dlaczego zrezygnował pan z </span>
+        <span start="336" end="390">kariery naukowej na rzecz biznesu?
+
+CRAIG R. BARRETT: </span>
+        <span start="454" end="524">po ponad dziesięciu latach pracy na uniwersytecie poczułem, że jestem </span>
+        <span start="528" end="721">znudzony. Chciałem znaleźć się wśród tych, którzy odkrycia naukowe zmieniają w konkretne zastosowania. Trafiłem do Intel Corporation, na stanowisko osoby odpowiedzialnej za rozwój technologii. </span>
+        <span start="792" end="798">byłem </span>
+        <span start="812" end="827">coraz częściej </span>
+        <span start="829" end="866">menedżerem. 
+
+Rezultat jest taki, że </span>
+        <span start="874" end="896">obejmie pan obowiązki </span>
+        <span start="906" end="939">dyrektora generalnego firmy Intel</span>
+        <span start="997" end="1002">. To </span>
+        <span start="1011" end="1027">wielkie wyzwanie</span>
+        <span start="1087" end="1092"> czy </span>
+        <span start="1096" end="1130">naturalny rezultat rotacji kadr?
+
+</span>
+        <span start="1182" end="1185">to </span>
+        <span start="1193" end="1211">wielkie wyzwanie, </span>
+        <span start="1275" end="1342">utrzymanie pozycji osiągniętej przez firmę będzie wielkim zadaniem.</span>
+        <span start="1627" end="1673"> jeśli idzie o strategię i organizację firmy, </span>
+        <span start="1717" end="1755">nie należy oczekiwać znaczących zmian.</span>
+        <span start="2662" end="2749">Tempo rozwoju jest wspaniałe, ale równie szybko rosną oczekiwania użytkowników, którzy </span>
+        <span start="2755" end="2761">żądają</span>
+        <span start="2768" end="2832">, byśmy dostarczali rozwiązań silniejszych, lepszych i tańszych.</span>
+        <span start="4064" end="4066">
+
+</span>
+        <span start="4215" end="4276">aby rozwijać się dalej, musicie albo znaleźć nowe rynki, albo</span>
+        <span start="4277" end="4346"> zacząć działać na innych polach. Który wariant wybieracie?
+
+Obydwa. </span>
+        <span start="4355" end="4378">działamy w myśl zasady </span>
+        <span start="4401" end="4436">nowe zastosowania, nowi użytkownicy</span>
+        <span start="4437" end="4438">.</span>
+        <span start="5189" end="5279"> nasz sukces uzależniony jest bezpośrednio od powodzenia rynku komputerowego jako całości.</span>
+        <span start="5996" end="6044"> rocznie inwestujemy około 1 mln dolarów w małe </span>
+        <span start="6058" end="6095">firmy komputerowe, które zajmują się </span>
+        <span start="6103" end="6137">wyszukiwaniem nowych zastosowań.
+
+</span>
+        <span start="6292" end="6347">dlaczego międzynarodowe firmy informatyczne zwlekają z </span>
+        <span start="6356" end="6393">inwestowaniem w naszej części Europy?</span>
+        <span start="6537" end="6539">
+
+</span>
+        <span start="6670" end="6712">Najpierw muszą istnieć wytwórcy komputerów</span>
+        <span start="6789" end="6797">. Potem </span>
+        <span start="6799" end="6859">pojawią się wytwórcy płyt głównych, komponentów, wyposażenia</span>
+        <span start="6863" end="6878">. Dopiero wtedy</span>
+        <span start="6927" end="7029"> można myśleć o otwieraniu np. fabryki układów mikroprocesorowych pracującej na potrzeby danego rynku.</span>
+        <span start="7362" end="7364">
+
+</span>
+        <span start="7441" end="7487">polscy wytwórcy komputerów płacą cło importowe</span>
+        <span start="7489" end="7536">
+Wiem i rozmawiałem o tym w Polsce wielokrotnie</span>
+        <span start="7570" end="7653">. Uważam, że jest to rodzaj nieuzasadnionej kary nałożonej na polskich producentów.</span>
+        <span start="7774" end="7799"> Bariery celne skłaniają </span>
+        <span start="7806" end="7863">słabsze firmy do szukania dostawców w tzw. szarej strefie</span>
+        <span start="7982" end="7983">.</span>
+      </spans>
+    </summary>
+    <summary ratio="5" type="extract" author="G">
+      <body>CRAIG R. BARRETT: Trafiłem do Intel Corporation na stanowisko osoby odpowiedzialnej za rozwój technologii. byłem coraz częściej menedżerem. 
+
+obejmie pan obowiązki dyrektora generalnego firmy Intel.
+
+utrzymanie pozycji będzie wielkim zadaniem. jeśli idzie o strategię firmy, nie należy oczekiwać zmian.
+
+aby rozwijać się, musicie znaleźć nowe rynki albo zacząć działać na innych polach.
+
+działamy w myśl zasady nowe zastosowania, nowi użytkownicy.</body>
+      <spans>
+        <span start="372" end="390">CRAIG R. BARRETT: </span>
+        <span start="631" end="660">Trafiłem do Intel Corporation</span>
+        <span start="661" end="721"> na stanowisko osoby odpowiedzialnej za rozwój technologii. </span>
+        <span start="792" end="798">byłem </span>
+        <span start="812" end="827">coraz częściej </span>
+        <span start="829" end="843">menedżerem. 
+
+</span>
+        <span start="874" end="896">obejmie pan obowiązki </span>
+        <span start="906" end="939">dyrektora generalnego firmy Intel</span>
+        <span start="997" end="998">.</span>
+        <span start="1128" end="1130">
+
+</span>
+        <span start="1275" end="1294">utrzymanie pozycji </span>
+        <span start="1318" end="1342">będzie wielkim zadaniem.</span>
+        <span start="1627" end="1651"> jeśli idzie o strategię</span>
+        <span start="1665" end="1673"> firmy, </span>
+        <span start="1717" end="1738">nie należy oczekiwać </span>
+        <span start="1749" end="1755">zmian.</span>
+        <span start="4064" end="4066">
+
+</span>
+        <span start="4215" end="4231">aby rozwijać się</span>
+        <span start="4237" end="4247">, musicie </span>
+        <span start="4252" end="4270">znaleźć nowe rynki</span>
+        <span start="4271" end="4276"> albo</span>
+        <span start="4277" end="4310"> zacząć działać na innych polach.</span>
+        <span start="4336" end="4338">
+
+</span>
+        <span start="4355" end="4378">działamy w myśl zasady </span>
+        <span start="4401" end="4436">nowe zastosowania, nowi użytkownicy</span>
+        <span start="4437" end="4438">.</span>
+      </spans>
+    </summary>
+    <summary ratio="10" type="extract" author="C">
+      <body>Był pan profesorem Uniwersytetu Stanford. Dlaczego zrezygnował pan z dalszej kariery naukowej na rzecz biznesu?
+CRAIG R. BARRETT: po ponad dziesięciu latach pracy na uniwersytecie poczułem, że jestem tym znudzony. Chciałem znaleźć się wśród tych, którzy odkrycia naukowe zmieniają w konkretne zastosowania. Trafiłem do Intel Corporation, na stanowisko osoby odpowiedzialnej za rozwój technologii. 
+21 maja obejmie pan obowiązki prezesa i dyrektora generalnego firmy Intel, zastępując na tym stanowisku legendarnego Andrew Grove'a. 
+Zawsze kiedy zastępuje się kogoś takiego jak Grove, to jest to wielkie wyzwanie, choćby dlatego, że jego dokonania są tak ogromne, że samo tylko utrzymanie pozycji osiągniętej przez firmę będzie wielkim zadaniem. Jednak jeśli idzie o strategię i organizację firmy, to nie należy oczekiwać znaczących zmian.</body>
+      <spans>
+        <span start="137" end="177">Był pan profesorem Uniwersytetu Stanford</span>
+        <span start="299" end="370">. Dlaczego zrezygnował pan z dalszej kariery naukowej na rzecz biznesu?</span>
+        <span start="371" end="390">
+CRAIG R. BARRETT: </span>
+        <span start="454" end="721">po ponad dziesięciu latach pracy na uniwersytecie poczułem, że jestem tym znudzony. Chciałem znaleźć się wśród tych, którzy odkrycia naukowe zmieniają w konkretne zastosowania. Trafiłem do Intel Corporation, na stanowisko osoby odpowiedzialnej za rozwój technologii. </span>
+        <span start="842" end="843">
+</span>
+        <span start="866" end="999">21 maja obejmie pan obowiązki prezesa i dyrektora generalnego firmy Intel, zastępując na tym stanowisku legendarnego Andrew Grove'a. </span>
+        <span start="1129" end="1343">
+Zawsze kiedy zastępuje się kogoś takiego jak Grove, to jest to wielkie wyzwanie, choćby dlatego, że jego dokonania są tak ogromne, że samo tylko utrzymanie pozycji osiągniętej przez firmę będzie wielkim zadaniem. </span>
+        <span start="1621" end="1676">Jednak jeśli idzie o strategię i organizację firmy, to </span>
+        <span start="1717" end="1755">nie należy oczekiwać znaczących zmian.</span>
+      </spans>
+    </summary>
+    <summary ratio="20" type="extract" author="C">
+      <body>Był pan profesorem Uniwersytetu Stanford. Dlaczego zrezygnował pan z dalszej kariery naukowej na rzecz biznesu?
+CRAIG R. BARRETT: po ponad dziesięciu latach pracy na uniwersytecie poczułem, że jestem tym znudzony. Chciałem znaleźć się wśród tych, którzy odkrycia naukowe zmieniają w konkretne zastosowania. Trafiłem do Intel Corporation, na stanowisko osoby odpowiedzialnej za rozwój technologii. 
+21 maja obejmie pan obowiązki prezesa i dyrektora generalnego firmy Intel, zastępując na tym stanowisku legendarnego Andrew Grove'a. 
+Zawsze kiedy zastępuje się kogoś takiego jak Grove, to jest to wielkie wyzwanie, choćby dlatego, że jego dokonania są tak ogromne, że samo tylko utrzymanie pozycji osiągniętej przez firmę będzie wielkim zadaniem. Od lat pracowaliśmy  razem według zasady, którą ująłbym tak: Andrew zajmuje się tym co chce, a ja - wszystkimi pozostałymi sprawami. Teraz będzie podobnie, z tym, że ponieważ obejmuje on stanowisko prezesa rady nadzorczej, to prawdopodobnie zmieni się nieco podział obowiązków. Jednak jeśli idzie o strategię i organizację firmy, to uważam, że wszystko jest w porządku i tu nie należy oczekiwać znaczących zmian. 
+Czyli nadal pozostajecie wierni przewidywaniom zawartym w prawie Moore'a, które głosi, iż liczba tranzystorów w procesorze będzie podwajać się co 18 - 24 miesiące? 
+Od z górą trzydziestu lat prawo sformułowane przez założyciela naszej firmy potwierdza swą słuszność z idealną niemal precyzją i nic nie wskazuje na to, by przynajmniej w ciągu najbliższych 15 - 20 lat miało być inaczej. Do osiągnięcia limitów wyznaczanych przez fizykę jest jeszcze bardzo daleko.</body>
+      <spans>
+        <span start="137" end="177">Był pan profesorem Uniwersytetu Stanford</span>
+        <span start="299" end="370">. Dlaczego zrezygnował pan z dalszej kariery naukowej na rzecz biznesu?</span>
+        <span start="371" end="390">
+CRAIG R. BARRETT: </span>
+        <span start="454" end="721">po ponad dziesięciu latach pracy na uniwersytecie poczułem, że jestem tym znudzony. Chciałem znaleźć się wśród tych, którzy odkrycia naukowe zmieniają w konkretne zastosowania. Trafiłem do Intel Corporation, na stanowisko osoby odpowiedzialnej za rozwój technologii. </span>
+        <span start="842" end="843">
+</span>
+        <span start="866" end="999">21 maja obejmie pan obowiązki prezesa i dyrektora generalnego firmy Intel, zastępując na tym stanowisku legendarnego Andrew Grove'a. </span>
+        <span start="1129" end="1756">
+Zawsze kiedy zastępuje się kogoś takiego jak Grove, to jest to wielkie wyzwanie, choćby dlatego, że jego dokonania są tak ogromne, że samo tylko utrzymanie pozycji osiągniętej przez firmę będzie wielkim zadaniem. Od lat pracowaliśmy  razem według zasady, którą ująłbym tak: Andrew zajmuje się tym co chce, a ja - wszystkimi pozostałymi sprawami. Teraz będzie podobnie, z tym, że ponieważ obejmuje on stanowisko prezesa rady nadzorczej, to prawdopodobnie zmieni się nieco podział obowiązków. Jednak jeśli idzie o strategię i organizację firmy, to uważam, że wszystko jest w porządku i tu nie należy oczekiwać znaczących zmian. </span>
+        <span start="1757" end="1922">
+Czyli nadal pozostajecie wierni przewidywaniom zawartym w prawie Moore'a, które głosi, iż liczba tranzystorów w procesorze będzie podwajać się co 18 - 24 miesiące? </span>
+        <span start="1996" end="2294">
+Od z górą trzydziestu lat prawo sformułowane przez założyciela naszej firmy potwierdza swą słuszność z idealną niemal precyzją i nic nie wskazuje na to, by przynajmniej w ciągu najbliższych 15 - 20 lat miało być inaczej. Do osiągnięcia limitów wyznaczanych przez fizykę jest jeszcze bardzo daleko.</span>
+      </spans>
+    </summary>
+    <summary ratio="5" type="extract" author="C">
+      <body>Dlaczego zrezygnował pan z dalszej kariery naukowej na rzecz biznesu?
+CRAIG R. BARRETT: Chciałem znaleźć się wśród tych, którzy odkrycia naukowe zmieniają w konkretne zastosowania. Trafiłem do Intel Corporation, na stanowisko osoby odpowiedzialnej za rozwój technologii. 
+21 maja obejmie pan obowiązki prezesa i dyrektora generalnego firmy Intel. 
+jeśli idzie o strategię i organizację firmy, to nie należy oczekiwać znaczących zmian.</body>
+      <spans>
+        <span start="301" end="370">Dlaczego zrezygnował pan z dalszej kariery naukowej na rzecz biznesu?</span>
+        <span start="371" end="390">
+CRAIG R. BARRETT: </span>
+        <span start="538" end="721">Chciałem znaleźć się wśród tych, którzy odkrycia naukowe zmieniają w konkretne zastosowania. Trafiłem do Intel Corporation, na stanowisko osoby odpowiedzialnej za rozwój technologii. </span>
+        <span start="842" end="843">
+</span>
+        <span start="866" end="939">21 maja obejmie pan obowiązki prezesa i dyrektora generalnego firmy Intel</span>
+        <span start="997" end="999">. </span>
+        <span start="1129" end="1130">
+</span>
+        <span start="1628" end="1676">jeśli idzie o strategię i organizację firmy, to </span>
+        <span start="1717" end="1755">nie należy oczekiwać znaczących zmian.</span>
+      </spans>
+    </summary>
+    <summary ratio="10" type="extract" author="E">
+      <body>Craig R. Barrett, wiceprezes i dyrektor operacyjny Intel Corporation
+21 maja obejmie pan obowiązki prezesa i dyrektora generalnego firmy Intel. 
+ nie należy oczekiwać znaczących zmian. 
+
+liczba tranzystorów w procesorze będzie podwajać się co 18 - 24 miesiące? 
+nic nie wskazuje na to, by przynajmniej w ciągu najbliższych 15 - 20 lat miało być inaczej. 
+ Intel osiągając ponadosiemdziesięcioprocentowy udział w rynku mikroprocesorów znalazł się w pułapce. musicie albo znaleźć nowe rynki, albo zacząć działać na innych polach. Który wariant wybieracie?
+Obydwa. 
+dlaczego międzynarodowe firmy informatyczne zwlekają z inwestowaniem w naszej części Europy? 
+Jesteśmy dopiero na etapie początkowym. 
+Wie pan, że polscy wytwórcy komputerów płacą cło importowe?
+Uważam, że jest to rodzaj nieuzasadnionej kary nałożonej na polskich producentów.</body>
+      <spans>
+        <span start="9" end="77">Craig R. Barrett, wiceprezes i dyrektor operacyjny Intel Corporation</span>
+        <span start="842" end="843">
+</span>
+        <span start="866" end="939">21 maja obejmie pan obowiązki prezesa i dyrektora generalnego firmy Intel</span>
+        <span start="997" end="999">. </span>
+        <span start="1129" end="1130">
+</span>
+        <span start="1529" end="1530"> </span>
+        <span start="1717" end="1758">nie należy oczekiwać znaczących zmian. 
+
+</span>
+        <span start="1848" end="1922">liczba tranzystorów w procesorze będzie podwajać się co 18 - 24 miesiące? </span>
+        <span start="1996" end="1997">
+</span>
+        <span start="2126" end="2218">nic nie wskazuje na to, by przynajmniej w ciągu najbliższych 15 - 20 lat miało być inaczej. </span>
+        <span start="4065" end="4066">
+</span>
+        <span start="4092" end="4185"> Intel osiągając ponadosiemdziesięcioprocentowy udział w rynku mikroprocesorów znalazł się w </span>
+        <span start="4199" end="4208">pułapce. </span>
+        <span start="4239" end="4276">musicie albo znaleźć nowe rynki, albo</span>
+        <span start="4277" end="4336"> zacząć działać na innych polach. Który wariant wybieracie?</span>
+        <span start="4337" end="4346">
+Obydwa. </span>
+        <span start="6136" end="6137">
+</span>
+        <span start="6292" end="6347">dlaczego międzynarodowe firmy informatyczne zwlekają z </span>
+        <span start="6356" end="6394">inwestowaniem w naszej części Europy? </span>
+        <span start="6538" end="6539">
+</span>
+        <span start="6567" end="6607">Jesteśmy dopiero na etapie początkowym. </span>
+        <span start="7363" end="7364">
+</span>
+        <span start="7423" end="7430">Wie pan</span>
+        <span start="7436" end="7488">, że polscy wytwórcy komputerów płacą cło importowe?</span>
+        <span start="7489" end="7490">
+</span>
+        <span start="7572" end="7653">Uważam, że jest to rodzaj nieuzasadnionej kary nałożonej na polskich producentów.</span>
+      </spans>
+    </summary>
+    <summary ratio="20" type="extract" author="E">
+      <body>Craig R. Barrett, wiceprezes i dyrektor operacyjny Intel Corporation
+Dlaczego zrezygnował pan z dalszej kariery naukowej na rzecz biznesu?
+Chciałem znaleźć się wśród tych, którzy odkrycia naukowe zmieniają w konkretne zastosowania. 
+21 maja obejmie pan obowiązki prezesa i dyrektora generalnego firmy Intel. 
+ nie należy oczekiwać znaczących zmian. 
+
+liczba tranzystorów w procesorze będzie podwajać się co 18 - 24 miesiące? Nie obawia się pan załamania tego procesu rozwojowego? 
+
+prawo sformułowane przez założyciela naszej firmy potwierdza swą słuszność i nic nie wskazuje na to, by przynajmniej w ciągu najbliższych 15 - 20 lat miało być inaczej. Wzrost możliwości obliczeniowych procesorów umożliwi powstanie i zastosowanie ogromnej liczby bardzo wymagających programów użytkowych. Aplikacje te nie tylko zmienią sposób komunikowania się ludzi ze sobą, ale także stworzą nowe możliwości zastosowań komputera w pracy i w domu. 
+ Intel osiągając ponadosiemdziesięcioprocentowy udział w rynku mikroprocesorów znalazł się w swego rodzaju pułapce. aby rozwijać się dalej, musicie albo znaleźć nowe rynki, albo zacząć działać na innych polach. Który wariant wybieracie?
+Obydwa. nasz sukces uzależniony jest bezpośrednio od powodzenia rynku komputerowego jako całości. rocznie inwestujemy około 1 mln dolarów w małe i bardzo małe firmy komputerowe, które zajmują się właśnie wyszukiwaniem nowych zastosowań.
+
+dlaczego międzynarodowe firmy informatyczne zwlekają z poważnym inwestowaniem w naszej części Europy? 
+Jesteśmy dopiero na etapie początkowym. 
+Wie pan, że polscy wytwórcy komputerów płacą cło importowe?
+Uważam, że jest to rodzaj nieuzasadnionej kary nałożonej na polskich producentów. dla nas jest to spory kłopot.</body>
+      <spans>
+        <span start="9" end="78">Craig R. Barrett, wiceprezes i dyrektor operacyjny Intel Corporation
+</span>
+        <span start="301" end="370">Dlaczego zrezygnował pan z dalszej kariery naukowej na rzecz biznesu?</span>
+        <span start="371" end="372">
+</span>
+        <span start="538" end="631">Chciałem znaleźć się wśród tych, którzy odkrycia naukowe zmieniają w konkretne zastosowania. </span>
+        <span start="842" end="843">
+</span>
+        <span start="866" end="939">21 maja obejmie pan obowiązki prezesa i dyrektora generalnego firmy Intel</span>
+        <span start="997" end="999">. </span>
+        <span start="1129" end="1130">
+</span>
+        <span start="1529" end="1530"> </span>
+        <span start="1717" end="1758">nie należy oczekiwać znaczących zmian. 
+
+</span>
+        <span start="1848" end="1940">liczba tranzystorów w procesorze będzie podwajać się co 18 - 24 miesiące? Nie obawia się pan</span>
+        <span start="1958" end="1997"> załamania tego procesu rozwojowego? 
+
+</span>
+        <span start="2023" end="2097">prawo sformułowane przez założyciela naszej firmy potwierdza swą słuszność</span>
+        <span start="2123" end="2218"> i nic nie wskazuje na to, by przynajmniej w ciągu najbliższych 15 - 20 lat miało być inaczej. </span>
+        <span start="2833" end="3113">Wzrost możliwości obliczeniowych procesorów umożliwi powstanie i zastosowanie ogromnej liczby bardzo wymagających programów użytkowych. Aplikacje te nie tylko zmienią sposób komunikowania się ludzi ze sobą, ale także stworzą nowe możliwości zastosowań komputera w pracy i w domu. </span>
+        <span start="4065" end="4066">
+</span>
+        <span start="4092" end="4208"> Intel osiągając ponadosiemdziesięcioprocentowy udział w rynku mikroprocesorów znalazł się w swego rodzaju pułapce. </span>
+        <span start="4215" end="4276">aby rozwijać się dalej, musicie albo znaleźć nowe rynki, albo</span>
+        <span start="4277" end="4336"> zacząć działać na innych polach. Który wariant wybieracie?</span>
+        <span start="4337" end="4346">
+Obydwa. </span>
+        <span start="5190" end="5280">nasz sukces uzależniony jest bezpośrednio od powodzenia rynku komputerowego jako całości. </span>
+        <span start="5997" end="6137">rocznie inwestujemy około 1 mln dolarów w małe i bardzo małe firmy komputerowe, które zajmują się właśnie wyszukiwaniem nowych zastosowań.
+
+</span>
+        <span start="6292" end="6394">dlaczego międzynarodowe firmy informatyczne zwlekają z poważnym inwestowaniem w naszej części Europy? </span>
+        <span start="6538" end="6539">
+</span>
+        <span start="6567" end="6607">Jesteśmy dopiero na etapie początkowym. </span>
+        <span start="7363" end="7364">
+</span>
+        <span start="7423" end="7430">Wie pan</span>
+        <span start="7436" end="7488">, że polscy wytwórcy komputerów płacą cło importowe?</span>
+        <span start="7489" end="7490">
+</span>
+        <span start="7572" end="7654">Uważam, że jest to rodzaj nieuzasadnionej kary nałożonej na polskich producentów. </span>
+        <span start="7745" end="7774">dla nas jest to spory kłopot.</span>
+      </spans>
+    </summary>
+    <summary ratio="5" type="extract" author="E">
+      <body>Craig R. Barrett, wiceprezes i dyrektor operacyjny Intel Corporation
+
+liczba tranzystorów w procesorze będzie podwajać się co 18 - 24 miesiące? 
+nic nie wskazuje na to, by miało być inaczej. 
+musicie albo znaleźć nowe rynki, albo zacząć działać na innych polach. Który wariant wybieracie?
+Obydwa. dlaczego międzynarodowe firmy informatyczne zwlekają z inwestowaniem w naszej części Europy? 
+Jesteśmy na etapie początkowym.</body>
+      <spans>
+        <span start="9" end="77">Craig R. Barrett, wiceprezes i dyrektor operacyjny Intel Corporation</span>
+        <span start="842" end="843">
+</span>
+        <span start="1129" end="1130">
+</span>
+        <span start="1848" end="1922">liczba tranzystorów w procesorze będzie podwajać się co 18 - 24 miesiące? </span>
+        <span start="1996" end="1997">
+</span>
+        <span start="2126" end="2153">nic nie wskazuje na to, by </span>
+        <span start="2199" end="2218">miało być inaczej. </span>
+        <span start="4065" end="4066">
+</span>
+        <span start="4239" end="4276">musicie albo znaleźć nowe rynki, albo</span>
+        <span start="4277" end="4336"> zacząć działać na innych polach. Który wariant wybieracie?</span>
+        <span start="4337" end="4346">
+Obydwa. </span>
+        <span start="6292" end="6347">dlaczego międzynarodowe firmy informatyczne zwlekają z </span>
+        <span start="6356" end="6394">inwestowaniem w naszej części Europy? </span>
+        <span start="6538" end="6539">
+</span>
+        <span start="6567" end="6576">Jesteśmy </span>
+        <span start="6584" end="6606">na etapie początkowym.</span>
+      </spans>
+    </summary>
+    <summary ratio="10" type="extract" author="I">
+      <body>Był pan profesorem Uniwersytetu Stanford. Dlaczego zrezygnował pan z kariery naukowej na rzecz biznesu?CRAIG R. BARRETT: po ponad dziesięciu latach pracy na uniwersytecie poczułem, że jestem znudzony. Chciałem znaleźć się wśród tych, którzy odkrycia naukowe zmieniają w konkretne zastosowania. Trafiłem do Intel Corporation, na stanowisko osoby odpowiedzialnej za rozwój technologii. A następnie przez dwadzieścia kilka lat coraz rzadziej byłem inżynierem, a coraz częściej - menedżerem. Spotkałem się z opinią, że Intel osiągając ponadosiemdziesięcioprocentowy udział w rynku mikroprocesorów znalazł się w swego rodzaju pułapce. Teraz, aby rozwijać się dalej, musicie albo znaleźć nowe rynki, albo zacząć działać na innych polach. Który wariant wybieracie?Obydwa. Od dawna działamy w myśl zasady "new uses, new users" (nowe zastosowania, nowi użytkownicy).</body>
+      <spans>
+        <span start="137" end="177">Był pan profesorem Uniwersytetu Stanford</span>
+        <span start="299" end="328">. Dlaczego zrezygnował pan z </span>
+        <span start="336" end="370">kariery naukowej na rzecz biznesu?</span>
+        <span start="372" end="390">CRAIG R. BARRETT: </span>
+        <span start="454" end="524">po ponad dziesięciu latach pracy na uniwersytecie poczułem, że jestem </span>
+        <span start="528" end="761">znudzony. Chciałem znaleźć się wśród tych, którzy odkrycia naukowe zmieniają w konkretne zastosowania. Trafiłem do Intel Corporation, na stanowisko osoby odpowiedzialnej za rozwój technologii. A następnie przez dwadzieścia kilka lat </span>
+        <span start="777" end="840">coraz rzadziej byłem inżynierem, a coraz częściej - menedżerem.</span>
+        <span start="1342" end="1343"> </span>
+        <span start="4066" end="4276">Spotkałem się z opinią, że Intel osiągając ponadosiemdziesięcioprocentowy udział w rynku mikroprocesorów znalazł się w swego rodzaju pułapce. Teraz, aby rozwijać się dalej, musicie albo znaleźć nowe rynki, albo</span>
+        <span start="4277" end="4336"> zacząć działać na innych polach. Który wariant wybieracie?</span>
+        <span start="4338" end="4438">Obydwa. Od dawna działamy w myśl zasady "new uses, new users" (nowe zastosowania, nowi użytkownicy).</span>
+      </spans>
+    </summary>
+    <summary ratio="20" type="extract" author="I">
+      <body>Był pan profesorem Uniwersytetu Stanford. Dlaczego zrezygnował pan z dalszej kariery naukowej na rzecz biznesu?CRAIG R. BARRETT: po ponad dziesięciu latach pracy na uniwersytecie poczułem, że jestem tym znudzony. Chciałem znaleźć się wśród tych, którzy odkrycia naukowe zmieniają w konkretne zastosowania. Trafiłem do Intel Corporation, na stanowisko osoby odpowiedzialnej za rozwój technologii. A następnie przez dwadzieścia kilka lat z dnia na dzień coraz rzadziej byłem inżynierem, a coraz częściej - menedżerem.Rezultat jest taki, że 21 maja obejmie pan obowiązki prezesa i dyrektora generalnego firmy Intel, zastępując na tym stanowisku legendarnego Andrew Grove'a. Zawsze kiedy zastępuje się kogoś takiego jak Grove, to jest to wielkie wyzwanie, choćby dlatego, że jego dokonania są tak ogromne, że samo tylko utrzymanie pozycji osiągniętej przez firmę będzie wielkim zadaniem. Spotkałem się z opinią, że Intel osiągając ponadosiemdziesięcioprocentowy udział w rynku mikroprocesorów znalazł się w swego rodzaju pułapce. Teraz, aby rozwijać się dalej, musicie albo znaleźć nowe rynki, albo zacząć działać na innych polach. Który wariant wybieracie?Obydwa. Od dawna działamy w myśl zasady "new uses, new users" (nowe zastosowania, nowi użytkownicy). W tej chwili w USA realizujemy już tylko 40 proc. obrotów i coraz intensywniej rozwijamy operacje w odległych częściach świata. dlaczego międzynarodowe firmy informatyczne zwlekają z poważnym inwestowaniem w naszej części Europy? Jesteśmy dopiero na etapie początkowym. Dopiero wtedy, gdy pojawi się już rzeczywiste zapotrzebowanie, można myśleć o otwieraniu np. fabryki układów mikroprocesorowych pracującej na potrzeby danego rynku.</body>
+      <spans>
+        <span start="137" end="177">Był pan profesorem Uniwersytetu Stanford</span>
+        <span start="299" end="370">. Dlaczego zrezygnował pan z dalszej kariery naukowej na rzecz biznesu?</span>
+        <span start="372" end="390">CRAIG R. BARRETT: </span>
+        <span start="454" end="840">po ponad dziesięciu latach pracy na uniwersytecie poczułem, że jestem tym znudzony. Chciałem znaleźć się wśród tych, którzy odkrycia naukowe zmieniają w konkretne zastosowania. Trafiłem do Intel Corporation, na stanowisko osoby odpowiedzialnej za rozwój technologii. A następnie przez dwadzieścia kilka lat z dnia na dzień coraz rzadziej byłem inżynierem, a coraz częściej - menedżerem.</span>
+        <span start="843" end="999">Rezultat jest taki, że 21 maja obejmie pan obowiązki prezesa i dyrektora generalnego firmy Intel, zastępując na tym stanowisku legendarnego Andrew Grove'a. </span>
+        <span start="1130" end="1343">Zawsze kiedy zastępuje się kogoś takiego jak Grove, to jest to wielkie wyzwanie, choćby dlatego, że jego dokonania są tak ogromne, że samo tylko utrzymanie pozycji osiągniętej przez firmę będzie wielkim zadaniem. </span>
+        <span start="4066" end="4276">Spotkałem się z opinią, że Intel osiągając ponadosiemdziesięcioprocentowy udział w rynku mikroprocesorów znalazł się w swego rodzaju pułapce. Teraz, aby rozwijać się dalej, musicie albo znaleźć nowe rynki, albo</span>
+        <span start="4277" end="4336"> zacząć działać na innych polach. Który wariant wybieracie?</span>
+        <span start="4338" end="4567">Obydwa. Od dawna działamy w myśl zasady "new uses, new users" (nowe zastosowania, nowi użytkownicy). W tej chwili w USA realizujemy już tylko 40 proc. obrotów i coraz intensywniej rozwijamy operacje w odległych częściach świata. </span>
+        <span start="6292" end="6394">dlaczego międzynarodowe firmy informatyczne zwlekają z poważnym inwestowaniem w naszej części Europy? </span>
+        <span start="6567" end="6607">Jesteśmy dopiero na etapie początkowym. </span>
+        <span start="6865" end="7029">Dopiero wtedy, gdy pojawi się już rzeczywiste zapotrzebowanie, można myśleć o otwieraniu np. fabryki układów mikroprocesorowych pracującej na potrzeby danego rynku.</span>
+      </spans>
+    </summary>
+    <summary ratio="5" type="extract" author="I">
+      <body>Był pan profesorem Uniwersytetu Stanford. Dlaczego zrezygnował pan z kariery naukowej na rzecz biznesu?CRAIG R. BARRETT: poczułem, że jestem znudzony. Chciałem znaleźć się wśród tych, którzy odkrycia naukowe zmieniają w konkretne zastosowania. Trafiłem do Intel Corporation, na stanowisko osoby odpowiedzialnej za rozwój technologii. A następnie przez dwadzieścia kilka lat coraz rzadziej byłem inżynierem, a coraz częściej - menedżerem.</body>
+      <spans>
+        <span start="137" end="177">Był pan profesorem Uniwersytetu Stanford</span>
+        <span start="299" end="328">. Dlaczego zrezygnował pan z </span>
+        <span start="336" end="370">kariery naukowej na rzecz biznesu?</span>
+        <span start="372" end="390">CRAIG R. BARRETT: </span>
+        <span start="504" end="524">poczułem, że jestem </span>
+        <span start="528" end="761">znudzony. Chciałem znaleźć się wśród tych, którzy odkrycia naukowe zmieniają w konkretne zastosowania. Trafiłem do Intel Corporation, na stanowisko osoby odpowiedzialnej za rozwój technologii. A następnie przez dwadzieścia kilka lat </span>
+        <span start="777" end="840">coraz rzadziej byłem inżynierem, a coraz częściej - menedżerem.</span>
+      </spans>
+    </summary>
+  </summaries>
+</text>
