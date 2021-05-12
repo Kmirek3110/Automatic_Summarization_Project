@@ -1,0 +1,395 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<text id="200003060054">
+  <date>2000-03-06</date>
+  <title>Pośpiech szkodzi przetargom</title>
+  <section>Publicystyka, Opinie</section>
+  <authors>Ryszard Nowak</authors>
+  <body>INFORMATYZACJA
+
+Jak zbudować system komputerowy
+
+Pośpiech szkodzi przetargom
+
+RYS. PAWEŁ GAŁKA
+
+RYSZARD NOWAK
+
+System informatyczny jest jak wodociąg - dopóki pracuje,  dopóty nie budzi zainteresowania. Dopiero w momencie awarii skupia na sobie uwagę. Przykładem może być ZUS.
+
+Kilkanaście lat system informatyczny ZUS działał nieprzerwanie. Przez cały ten czas prawie nikt o nim nie słyszał, nim nie zabrano się za jego unowocześnienie przy okazji reformy ubezpieczeń społecznych. Zresztą w zakresie wypłat rent i emerytur oraz wniosków o przyznanie świadczeń działa nadal tzw. stary system. Całe szczęście, że tworzenie nowego zaczęto od obsługi składek.
+
+Ucieczka dostawcy
+
+Od kilku lat toczy się dyskusja na temat powodów niepowodzeń we wdrażaniu wielkich systemów informatycznych (system podatkowy, celny, ubezpieczeń społecznych, itd.).
+
+Różne są metody realizacji dużych przedsięwzięć informatycznych. Jedna z mniej szczęśliwych to rozpisanie przetargu ukierunkowanego na wybór dużej firmy informatycznej, która będzie w stanie przejąć całą odpowiedzialność za budowę systemu. Przykład: przetarg na kompleksowy system dla urzędów celnych. Umowa była majstersztykiem. Siemens Nixdorf wypchnął do podpisania tej umowy swoją spółkę CGK, systemu jak nie było, tak nie ma, a biedna, wystawiona do odstrzału CGK i tak nie zapłaciła przewidzianych umową kar.
+
+Wydaje się, że im większy system, tym mniejsza szansa na osiągnięcie sukcesu tą drogą. Najprawdopodobniej niewiele daje eskalacja żądań i gwarancji w wymaganiach przetargowych, gdy przedmiotem przetargu jest dostawa, czyli wykonanie i następnie oddanie systemu w całości do eksploatacji przez zamawiającego. Znany efekt "ucieczki dostawcy" zaowocuje nieuchronnie pozostawieniem użytkownika z problemami, gdy tylko koszty ich rozwiązywania okażą się zbyt wysokie. Bull, francuska firma informatyczna, znalazła sposób, by zostawić "wyeksploatowanego" klienta w trakcie realizowania kontraktu na informatyzację podatków w Polsce, a i ZUS zostanie zapewne pozostawiony samemu sobie, gdy przestanie być finansowo interesujący.
+
+Standardy polskie  i zachodnie
+
+Jako antidotum na niebezpieczeństwa związane z wdrażaniem systemów informatycznych w nowych lub reformowanych instytucjach wymienia się często koncepcję zakupu i zaadaptowania gotowego i sprawdzonego systemu z zachodu. Zakłada się, że skoro w efekcie tego procesu powstanie organizacja zgodna z zachodnimi standardami, to któryś z istniejących zachodnich systemów będzie spełniał jej potrzeby. Ten pogląd usprawiedliwia odkładanie istotnych decyzji i powoduje, spontaniczną, pozbawioną jakiegokolwiek planu mikrokomputeryzację takiej instytucji. Polonizowanie i wdrażanie typowych systemów zarządzania produkcją w typowych przedsiębiorstwach trwa kilka lat, zwykle zdecydowanie dłużej niż zakłada się na początku, i kończy się pełnym sukcesem w zastanawiająco niskim procencie przypadków. Koszt jest zawsze bardzo wysoki.
+
+Koncepcje zinformatyzowania w ten sposób państwowych instytucji często rozważano i zwykle odrzucano. Powodem był najprawdopodobniej wzrost wiedzy na temat problemów z ich realizacją.
+
+Własnym sumptem
+
+Kilkakrotnie podejmowano próby stworzenia kompleksowego systemu dla powstającej lub reorganizującej się instytucji, powołując w jej ramach zespół informatyków. Drugi etap budowy systemu ewidencji podatków i podatników "Poltax" jest tego klasycznym przykładem. Kiedy po pięciu latach okazało się, że wynajęcie francuskiej firmy Bull nie rozwiązuje problemu informatyzacji systemu podatkowego w Polsce, zdecydowano się na rozbudowanie stworzonego w ramach Ministerstwa Finansów zespołu informatyków, który przejął całe zadanie. Kierujący wcześniej tym zespołem, jeszcze podczas współpracy z Francuzami, profesor Andrzej Jankowski jako jedną z przyczyn niepowodzenia "Poltaksu" podał w piśmie "Computerworld" fakt tworzenia systemu przez zespół dopiero powstający, i to w bardzo niesprzyjających warunkach (m.in. zmiany w działaniu samej instytucji, nieuregulowany status informatyków, zmiany priorytetów). Budowanie sprawnego zespołu informatyków zawsze trwa długie lata, a żeby stworzyć dobry system informatyczny, trzeba najpierw zrobić w danej dziedzinie  system zły. Według płynących ostatnio od osób kierujących informatyzacją podatków -"Poltax" ma się coraz lepiej. Być może etap złego działania został już zakończony i za kilka lat system będzie pracował w wystarczającym zakresie. 
+
+Komu jakie zadanie
+
+Drogą, która w naszych realiach okazywała się dotychczas dość skuteczna, jest oddanie dobrze zdefiniowanych informatycznych zadań do wykonywania przez wyspecjalizowane zewnętrzne firmy.
+
+Koncepcja ta ma następujące zalety:
+
+- Już w fazie analizy zadania umożliwia dostęp do specjalistycznej wiedzy i oparcie planów na realnie istniejących mocach wykonawczych.
+
+-Zaoszczędza czas potrzebny na stworzenie zespołów i ośrodków informatycznych.
+
+-  Wyklucza zjawisko "ucieczki dostawcy" - w odróżnieniu od dostawcy systemu wykonawca usług jest wynagradzany za eksploatację systemu w danym okresie.
+
+- Wymusza skuteczne egzekwowanie powierzonych zadań przez wcześniejsze precyzyjne określenie składowych systemu, zakresu obowiązków i odpowiedzialności poszczególnych wykonawców.
+
+Zlecanie poszczególnych zadań budowy systemu zewnętrznym firmom jest natomiast szalenie nieatrakcyjne w początkowej fazie przedsięwzięcia - zbyt szybko ukazuje wszystkie koszty i rzeczywiste problemy. W dodatku,  przez wielu informatyków zatrudnionych w informatyzowanej instytucji traktowany jest jako zamach na ich pozycję. Tymczasem ich pozycja umacnia się: do nich należy dokonanie szczegółowej analizy, które z zadań zlecić na zewnątrz, które realizować, korzystając z własnych zasobów, a także, jak te cząstkowe rozwiązania, eksploatowane na odległych komputerach, najprawdopodobniej w różnych technologiach, zintegrować w jeden "przezroczysty", osiągalny ze wszystkich stanowisk pracy system. Przykładem takiej ścieżki  jest KRUS - Kasa Rolniczego Ubezpieczenia Społecznego, która uznana została przez tygodnik "Teleinfo" za najlepiej zinformatyzowaną instytucję ubezpieczeniową w 1999 r. Charakterystyczne jest, że KRUS nie ma własnego ośrodka informatyki - obsługiwana jest przez grupę zewnętrznych firm. Ważne, że do tej pory nic nie było słychać o kłopotach z identyfikacją składek czy wypłatami rolniczych świadczeń. To znaczy, że systemy w KRUS działają.
+
+Nie tylko komputery
+
+Stałym elementem najbardziej fatalnych scenariuszy jest niedostrzeganie złożoności zadania informatycznego. Zwykle na początku widzi się jedynie wielką liczbę komputerów osobistych otoczonych najprzeróżniejszymi peryferiami i podłączonych do lokalnych lub regionalnych serwerów, a wszystko to zwieńczone wielkim serwerem centralnym. Prezes Janusz Paczocha, obejmując kilka lat temu stanowisko w Głównym Urzędzie Ceł, zapowiadał jako pierwszy krok w nowym etapie realizacji systemu informatycznego rozpisanie wzorcowego przetargu na mikrokomputery dla urzędów celnych. 
+
+Przetarg się odbył i zapewne był wzorcowy, tylko w żaden sposób nie przybliżył uruchomienia systemu. Zakup sprzętu wraz z podstawowym oprogramowaniem i urządzeniami peryferyjnymi to przedsięwzięcie najprostsze, spektakularne i łatwo je przedstawić jako duży sukces, mimo iż potem często okazuje się, że duża część zakupów była chybiona.
+
+Poważny problem zaczyna się z chwilą przystąpienia do przejęcia danych z istniejących systemów. Przyjęta jest zwykle jedna z dwóch skrajnych koncepcji:
+
+-Desperacka - próba wykonania przy okazji budowy nowego systemu wszystkich "niekompletnych" ewidencji. Doprowadza to do rozproszenia wysiłków i skutecznie zatrzymuje budowanie właściwego systemu.
+
+- Kunktatorska - okrojenie "na razie" systemu. Tego rodzaju wyjście nazywane jest pragmatycznym i prowadzi do wytworzenia papierowo-mikrokomputerowej atrapy systemu, przy czym przeznaczone na realizację projektu fundusze topi się w "wyposażaniu technicznym biur i centrali".
+
+Pod presją czasu
+
+W dalszym ciągu na realizację czekają programy komputeryzacji systemów ewidencji pojazdów i kierowców, ewidencji gruntów, upraw i zwierząt, podatków i podatników ("Poltax"), rejestrów sądowych, systemów dla administracji celnej ("Osiac") i wiele innych. Prawie każda resortowa reforma czy reorganizacja zawiera w sobie konieczność stworzenia ogólnokrajowego systemu informatycznego. Perspektywa wejścia do Unii Europejskiej zjawisko to nasili. Kolejne poważne informatyczne przedsięwzięcia będą podejmowane pod presją czasu. W przygotowywanych w pośpiechu dokumentach przetargowych pojawią się chybione wymagania i nierealne terminy. Do wydania są duże, w większości unijne pieniądze. Żądania szybkich efektów łatwo zaowocują powielaniem ogólnie znanych scenariuszy. Dotychczas przynosiły one tylko niepowodzenia.
+
+Autor reprezentuje Agencję Informatyczną, partnera firmy Software AG w Polsce, dostawcy narzędzi do tworzenia systemów informatycznych o kluczowym znaczeniu</body>
+  <summaries>
+    <summary ratio="10" type="extract" author="J">
+      <body>Różne są metody realizacji dużych przedsięwzięć informatycznych. Jedna z mniej szczęśliwych to rozpisanie przetargu ukierunkowanego na wybór dużej firmy informatycznej, która będzie w stanie przejąć całą odpowiedzialność za budowę systemu. Jako antidotum wymienia się często koncepcję zakupu i zaadaptowania gotowego i sprawdzonego systemu z zachodu. Kilkakrotnie podejmowano próby stworzenia kompleksowego systemu dla instytucji, powołując w jej ramach zespół informatyków. Drogą, która w naszych realiach okazywała się dotychczas dość skuteczna, jest oddanie dobrze zdefiniowanych informatycznych zadań do wykonywania przez wyspecjalizowane zewnętrzne firmy.
+Prawie każda resortowa reforma czy reorganizacja zawiera w sobie konieczność stworzenia ogólnokrajowego systemu informatycznego. Perspektywa wejścia do Unii Europejskiej zjawisko to nasili. Żądania szybkich efektów łatwo zaowocują powielaniem ogólnie znanych scenariuszy.</body>
+      <spans>
+        <span start="844" end="1084">Różne są metody realizacji dużych przedsięwzięć informatycznych. Jedna z mniej szczęśliwych to rozpisanie przetargu ukierunkowanego na wybór dużej firmy informatycznej, która będzie w stanie przejąć całą odpowiedzialność za budowę systemu. </span>
+        <span start="2115" end="2130">Jako antidotum </span>
+        <span start="2238" end="2334">wymienia się często koncepcję zakupu i zaadaptowania gotowego i sprawdzonego systemu z zachodu. </span>
+        <span start="3139" end="3207">Kilkakrotnie podejmowano próby stworzenia kompleksowego systemu dla </span>
+        <span start="3243" end="3299">instytucji, powołując w jej ramach zespół informatyków. </span>
+        <span start="4448" end="4633">Drogą, która w naszych realiach okazywała się dotychczas dość skuteczna, jest oddanie dobrze zdefiniowanych informatycznych zadań do wykonywania przez wyspecjalizowane zewnętrzne firmy.</span>
+        <span start="7963" end="7964">
+</span>
+        <span start="8218" end="8408">Prawie każda resortowa reforma czy reorganizacja zawiera w sobie konieczność stworzenia ogólnokrajowego systemu informatycznego. Perspektywa wejścia do Unii Europejskiej zjawisko to nasili. </span>
+        <span start="8649" end="8730">Żądania szybkich efektów łatwo zaowocują powielaniem ogólnie znanych scenariuszy.</span>
+      </spans>
+    </summary>
+    <summary ratio="20" type="extract" author="J">
+      <body>Różne są metody realizacji dużych przedsięwzięć informatycznych. Jedna z mniej szczęśliwych to rozpisanie przetargu ukierunkowanego na wybór dużej firmy informatycznej, która będzie w stanie przejąć całą odpowiedzialność za budowę systemu. niewiele daje eskalacja żądań i gwarancji w wymaganiach przetargowych, gdy przedmiotem przetargu jest dostawa. Znany efekt "ucieczki dostawcy" zaowocuje nieuchronnie pozostawieniem użytkownika z problemami, gdy tylko koszty ich rozwiązywania okażą się zbyt wysokie. 
+
+Jako antidotum wymienia się często koncepcję zakupu i zaadaptowania gotowego i sprawdzonego systemu z zachodu. Polonizowanie i wdrażanie typowych systemów zarządzania produkcją w typowych przedsiębiorstwach kończy się pełnym sukcesem w niskim procencie przypadków. 
+
+Kilkakrotnie podejmowano próby stworzenia kompleksowego systemu dla powstającej lub reorganizującej się instytucji, powołując w jej ramach zespół informatyków. 
+
+Drogą, która w naszych realiach okazywała się dotychczas dość skuteczna, jest oddanie dobrze zdefiniowanych informatycznych zadań do wykonywania przez wyspecjalizowane zewnętrzne firmy.
+Przykładem takiej ścieżki  jest Kasa Rolniczego Ubezpieczenia Społecznego, która uznana została przez tygodnik "Teleinfo" za najlepiej zinformatyzowaną instytucję ubezpieczeniową w 1999 r. 
+
+Stałym elementem najbardziej fatalnych scenariuszy jest niedostrzeganie złożoności zadania informatycznego. Zakup sprzętu wraz z podstawowym oprogramowaniem i urządzeniami peryferyjnymi to przedsięwzięcie najprostsze.
+Poważny problem zaczyna się z chwilą przystąpienia do przejęcia danych z istniejących systemów. 
+
+Prawie każda resortowa reforma czy reorganizacja zawiera w sobie konieczność stworzenia ogólnokrajowego systemu informatycznego. Perspektywa wejścia do Unii Europejskiej zjawisko to nasili. Żądania szybkich efektów łatwo zaowocują powielaniem ogólnie znanych scenariuszy.</body>
+      <spans>
+        <span start="844" end="1084">Różne są metody realizacji dużych przedsięwzięć informatycznych. Jedna z mniej szczęśliwych to rozpisanie przetargu ukierunkowanego na wybór dużej firmy informatycznej, która będzie w stanie przejąć całą odpowiedzialność za budowę systemu. </span>
+        <span start="1466" end="1575">niewiele daje eskalacja żądań i gwarancji w wymaganiach przetargowych, gdy przedmiotem przetargu jest dostawa</span>
+        <span start="1666" end="1823">. Znany efekt "ucieczki dostawcy" zaowocuje nieuchronnie pozostawieniem użytkownika z problemami, gdy tylko koszty ich rozwiązywania okażą się zbyt wysokie. </span>
+        <span start="2082" end="2083">
+</span>
+        <span start="2114" end="2130">
+Jako antidotum </span>
+        <span start="2238" end="2334">wymienia się często koncepcję zakupu i zaadaptowania gotowego i sprawdzonego systemu z zachodu. </span>
+        <span start="2661" end="2757">Polonizowanie i wdrażanie typowych systemów zarządzania produkcją w typowych przedsiębiorstwach </span>
+        <span start="2831" end="2860">kończy się pełnym sukcesem w </span>
+        <span start="2875" end="2904">niskim procencie przypadków. </span>
+        <span start="3121" end="3122">
+</span>
+        <span start="3138" end="3299">
+Kilkakrotnie podejmowano próby stworzenia kompleksowego systemu dla powstającej lub reorganizującej się instytucji, powołując w jej ramach zespół informatyków. </span>
+        <span start="4427" end="4428">
+</span>
+        <span start="4447" end="4634">
+Drogą, która w naszych realiach okazywała się dotychczas dość skuteczna, jest oddanie dobrze zdefiniowanych informatycznych zadań do wykonywania przez wyspecjalizowane zewnętrzne firmy.
+</span>
+        <span start="5922" end="5954">Przykładem takiej ścieżki  jest </span>
+        <span start="5961" end="6118">Kasa Rolniczego Ubezpieczenia Społecznego, która uznana została przez tygodnik "Teleinfo" za najlepiej zinformatyzowaną instytucję ubezpieczeniową w 1999 r. </span>
+        <span start="6390" end="6391">
+</span>
+        <span start="6411" end="6520">
+Stałym elementem najbardziej fatalnych scenariuszy jest niedostrzeganie złożoności zadania informatycznego. </span>
+        <span start="7083" end="7191">Zakup sprzętu wraz z podstawowym oprogramowaniem i urządzeniami peryferyjnymi to przedsięwzięcie najprostsze</span>
+        <span start="7317" end="7318">.</span>
+        <span start="7319" end="7416">
+Poważny problem zaczyna się z chwilą przystąpienia do przejęcia danych z istniejących systemów. </span>
+        <span start="7945" end="7946">
+</span>
+        <span start="7963" end="7964">
+</span>
+        <span start="8218" end="8408">Prawie każda resortowa reforma czy reorganizacja zawiera w sobie konieczność stworzenia ogólnokrajowego systemu informatycznego. Perspektywa wejścia do Unii Europejskiej zjawisko to nasili. </span>
+        <span start="8649" end="8730">Żądania szybkich efektów łatwo zaowocują powielaniem ogólnie znanych scenariuszy.</span>
+      </spans>
+    </summary>
+    <summary ratio="5" type="extract" author="J">
+      <body>Różne są metody realizacji dużych przedsięwzięć informatycznych. Jedna z mniej szczęśliwych to rozpisanie przetargu ukierunkowanego na wybór dużej firmy informatycznej. Jako antidotum wymienia się często koncepcję zakupu i zaadaptowania gotowego systemu z zachodu. Drogą, która w naszych realiach okazywała się dotychczas dość skuteczna, jest oddanie dobrze zdefiniowanych informatycznych zadań do wykonywania przez wyspecjalizowane zewnętrzne firmy.</body>
+      <spans>
+        <span start="844" end="1011">Różne są metody realizacji dużych przedsięwzięć informatycznych. Jedna z mniej szczęśliwych to rozpisanie przetargu ukierunkowanego na wybór dużej firmy informatycznej</span>
+        <span start="1082" end="1084">. </span>
+        <span start="2115" end="2130">Jako antidotum </span>
+        <span start="2238" end="2300">wymienia się często koncepcję zakupu i zaadaptowania gotowego </span>
+        <span start="2315" end="2334">systemu z zachodu. </span>
+        <span start="4448" end="4633">Drogą, która w naszych realiach okazywała się dotychczas dość skuteczna, jest oddanie dobrze zdefiniowanych informatycznych zadań do wykonywania przez wyspecjalizowane zewnętrzne firmy.</span>
+      </spans>
+    </summary>
+    <summary ratio="10" type="extract" author="H">
+      <body>toczy się dyskusja na temat powodów niepowodzeń we wdrażaniu wielkich systemów informatycznych.Różne są metody. Jedna z mniej szczęśliwych to wybór dużej firmy informatycznej, która będzie w stanie przejąć odpowiedzialność za budowę systemu. Jako antidotum na niebezpieczeństwa związane z wdrażaniem systemów wymienia się koncepcję zakupu i zaadaptowania gotowego systemu z zachodu. Polonizowanie systemów zarządzania produkcją w typowych przedsiębiorstwach kończy się sukcesem w niskim procencie przypadków. podejmowano próby stworzenia systemu dla instytucji, powołując w jej ramach zespół informatyków. skuteczna jest oddanie dobrze zdefiniowanych informatycznych zadań do wykonywania przez wyspecjalizowane zewnętrzne firmy. Przykładem jest KRUS. Prawie każda resortowa reforma czy reorganizacja zawiera konieczność stworzenia ogólnokrajowego systemu informatycznego. Perspektywa wejścia do Unii Europejskiej zjawisko to nasili.</body>
+      <spans>
+        <span start="690" end="784">toczy się dyskusja na temat powodów niepowodzeń we wdrażaniu wielkich systemów informatycznych</span>
+        <span start="841" end="842">.</span>
+        <span start="844" end="859">Różne są metody</span>
+        <span start="907" end="939">. Jedna z mniej szczęśliwych to </span>
+        <span start="979" end="1043">wybór dużej firmy informatycznej, która będzie w stanie przejąć </span>
+        <span start="1048" end="1084">odpowiedzialność za budowę systemu. </span>
+        <span start="2115" end="2182">Jako antidotum na niebezpieczeństwa związane z wdrażaniem systemów </span>
+        <span start="2238" end="2251">wymienia się </span>
+        <span start="2258" end="2300">koncepcję zakupu i zaadaptowania gotowego </span>
+        <span start="2315" end="2334">systemu z zachodu. </span>
+        <span start="2661" end="2675">Polonizowanie </span>
+        <span start="2696" end="2757">systemów zarządzania produkcją w typowych przedsiębiorstwach </span>
+        <span start="2831" end="2842">kończy się </span>
+        <span start="2849" end="2860">sukcesem w </span>
+        <span start="2875" end="2904">niskim procencie przypadków. </span>
+        <span start="3152" end="3181">podejmowano próby stworzenia </span>
+        <span start="3195" end="3207">systemu dla </span>
+        <span start="3243" end="3299">instytucji, powołując w jej ramach zespół informatyków. </span>
+        <span start="4510" end="4519">skuteczna</span>
+        <span start="4520" end="4633"> jest oddanie dobrze zdefiniowanych informatycznych zadań do wykonywania przez wyspecjalizowane zewnętrzne firmy.</span>
+        <span start="5921" end="5933"> Przykładem </span>
+        <span start="5949" end="5958">jest KRUS</span>
+        <span start="6116" end="6118">. </span>
+        <span start="8218" end="8275">Prawie każda resortowa reforma czy reorganizacja zawiera </span>
+        <span start="8283" end="8407">konieczność stworzenia ogólnokrajowego systemu informatycznego. Perspektywa wejścia do Unii Europejskiej zjawisko to nasili.</span>
+      </spans>
+    </summary>
+    <summary ratio="20" type="extract" author="H">
+      <body>Od kilku lat toczy się dyskusja na temat powodów niepowodzeń we wdrażaniu wielkich systemów informatycznych.Różne są metody realizacji dużych przedsięwzięć informatycznych. Jedna z mniej szczęśliwych to rozpisanie przetargu na wybór dużej firmy informatycznej, która będzie w stanie przejąć całą odpowiedzialność za budowę systemu. Wydaje się, że im większy system, tym mniejsza szansa na osiągnięcie sukcesu tą drogą. Jako antidotum na niebezpieczeństwa związane z wdrażaniem systemów informatycznych w instytucjach wymienia się koncepcję zakupu i zaadaptowania gotowego i sprawdzonego systemu z zachodu. Polonizowanie i wdrażanie systemów zarządzania produkcją w typowych przedsiębiorstwach kończy się pełnym sukcesem w niskim procencie przypadków. Kilkakrotnie podejmowano próby stworzenia kompleksowego systemu dla powstającej lub reorganizującej się instytucji, powołując w jej ramach zespół informatyków. system "Poltax" jest tego przykładem. Kierujący zespołem profesor Andrzej Jankowski jako jedną z przyczyn niepowodzenia "Poltaksu" podał fakt tworzenia systemu przez zespół dopiero powstający, w niesprzyjających warunkach. Drogą, która okazywała się dotychczas skuteczna, jest oddanie dobrze zdefiniowanych informatycznych zadań do wykonywania przez wyspecjalizowane zewnętrzne firmy. Przykładem takiej ścieżki  jest KRUS. Charakterystyczne jest, że KRUS nie ma własnego ośrodka informatyki - obsługiwana jest przez grupę zewnętrznych firm. Stałym elementem najbardziej fatalnych scenariuszy jest niedostrzeganie złożoności zadania informatycznego. problem zaczyna się z chwilą przejęcia danych z istniejących systemów. Prawie każda resortowa reforma czy reorganizacja zawiera konieczność stworzenia ogólnokrajowego systemu informatycznego. Perspektywa wejścia do Unii Europejskiej zjawisko to nasili.</body>
+      <spans>
+        <span start="677" end="784">Od kilku lat toczy się dyskusja na temat powodów niepowodzeń we wdrażaniu wielkich systemów informatycznych</span>
+        <span start="841" end="842">.</span>
+        <span start="844" end="960">Różne są metody realizacji dużych przedsięwzięć informatycznych. Jedna z mniej szczęśliwych to rozpisanie przetargu </span>
+        <span start="976" end="1084">na wybór dużej firmy informatycznej, która będzie w stanie przejąć całą odpowiedzialność za budowę systemu. </span>
+        <span start="1360" end="1447">Wydaje się, że im większy system, tym mniejsza szansa na osiągnięcie sukcesu tą drogą. </span>
+        <span start="2115" end="2200">Jako antidotum na niebezpieczeństwa związane z wdrażaniem systemów informatycznych w </span>
+        <span start="2225" end="2251">instytucjach wymienia się </span>
+        <span start="2258" end="2334">koncepcję zakupu i zaadaptowania gotowego i sprawdzonego systemu z zachodu. </span>
+        <span start="2661" end="2687">Polonizowanie i wdrażanie </span>
+        <span start="2696" end="2757">systemów zarządzania produkcją w typowych przedsiębiorstwach </span>
+        <span start="2831" end="2860">kończy się pełnym sukcesem w </span>
+        <span start="2875" end="2904">niskim procencie przypadków. </span>
+        <span start="3139" end="3299">Kilkakrotnie podejmowano próby stworzenia kompleksowego systemu dla powstającej lub reorganizującej się instytucji, powołując w jej ramach zespół informatyków. </span>
+        <span start="3317" end="3323">system</span>
+        <span start="3356" end="3376"> "Poltax" jest tego </span>
+        <span start="3387" end="3399">przykładem. </span>
+        <span start="3665" end="3675">Kierujący </span>
+        <span start="3689" end="3697">zespołem</span>
+        <span start="3739" end="3820"> profesor Andrzej Jankowski jako jedną z przyczyn niepowodzenia "Poltaksu" podał </span>
+        <span start="3845" end="3901">fakt tworzenia systemu przez zespół dopiero powstający, </span>
+        <span start="3906" end="3908">w </span>
+        <span start="3915" end="3941">niesprzyjających warunkach</span>
+        <span start="4041" end="4043">. </span>
+        <span start="4448" end="4461">Drogą, która </span>
+        <span start="4480" end="4505">okazywała się dotychczas </span>
+        <span start="4510" end="4633">skuteczna, jest oddanie dobrze zdefiniowanych informatycznych zadań do wykonywania przez wyspecjalizowane zewnętrzne firmy.</span>
+        <span start="5921" end="5958"> Przykładem takiej ścieżki  jest KRUS</span>
+        <span start="6116" end="6236">. Charakterystyczne jest, że KRUS nie ma własnego ośrodka informatyki - obsługiwana jest przez grupę zewnętrznych firm. </span>
+        <span start="6412" end="6520">Stałym elementem najbardziej fatalnych scenariuszy jest niedostrzeganie złożoności zadania informatycznego. </span>
+        <span start="7328" end="7357">problem zaczyna się z chwilą </span>
+        <span start="7374" end="7416">przejęcia danych z istniejących systemów. </span>
+        <span start="8218" end="8275">Prawie każda resortowa reforma czy reorganizacja zawiera </span>
+        <span start="8283" end="8407">konieczność stworzenia ogólnokrajowego systemu informatycznego. Perspektywa wejścia do Unii Europejskiej zjawisko to nasili.</span>
+      </spans>
+    </summary>
+    <summary ratio="5" type="extract" author="H">
+      <body>toczy się dyskusja na temat powodów niepowodzeń we wdrażaniu wielkich systemów informatycznych.Różne są metody. Jedna z mniej szczęśliwych to wybór dużej firmy informatycznej, która będzie w stanie przejąć odpowiedzialność za budowę systemu. wymienia się koncepcję zakupu i zaadaptowania gotowego systemu z zachodu. skuteczna jest oddanie dobrze zdefiniowanych informatycznych zadań do wykonywania przez wyspecjalizowane zewnętrzne firmy.</body>
+      <spans>
+        <span start="690" end="784">toczy się dyskusja na temat powodów niepowodzeń we wdrażaniu wielkich systemów informatycznych</span>
+        <span start="841" end="842">.</span>
+        <span start="844" end="859">Różne są metody</span>
+        <span start="907" end="939">. Jedna z mniej szczęśliwych to </span>
+        <span start="979" end="1043">wybór dużej firmy informatycznej, która będzie w stanie przejąć </span>
+        <span start="1048" end="1084">odpowiedzialność za budowę systemu. </span>
+        <span start="2238" end="2251">wymienia się </span>
+        <span start="2258" end="2300">koncepcję zakupu i zaadaptowania gotowego </span>
+        <span start="2315" end="2334">systemu z zachodu. </span>
+        <span start="4510" end="4519">skuteczna</span>
+        <span start="4520" end="4633"> jest oddanie dobrze zdefiniowanych informatycznych zadań do wykonywania przez wyspecjalizowane zewnętrzne firmy.</span>
+      </spans>
+    </summary>
+    <summary ratio="10" type="extract" author="I">
+      <body>System informatyczny jest jak wodociąg - dopóki pracuje,  dopóty nie budzi zainteresowania. Dopiero w momencie awarii skupia na sobie uwagę. toczy się dyskusja na temat powodów niepowodzeń we wdrażaniu wielkich systemów informatycznych.Różne są metody realizacji dużych przedsięwzięć informatycznych. Jedna z mniej szczęśliwych to wybór dużej firmy informatycznej, która będzie w stanie przejąć całą odpowiedzialność za budowę systemu. Drogą, która w naszych realiach okazywała się dotychczas dość skuteczna, jest oddanie dobrze zdefiniowanych informatycznych zadań do wykonywania przez wyspecjalizowane zewnętrzne firmy. Stałym elementem najbardziej fatalnych scenariuszy jest niedostrzeganie złożoności zadania informatycznego. Zwykle na początku widzi się jedynie wielką liczbę komputerów osobistych otoczonych peryferiami i podłączonych do lokalnych serwerów, a wszystko to zwieńczone wielkim serwerem centralnym.</body>
+      <spans>
+        <span start="111" end="252">System informatyczny jest jak wodociąg - dopóki pracuje,  dopóty nie budzi zainteresowania. Dopiero w momencie awarii skupia na sobie uwagę. </span>
+        <span start="690" end="784">toczy się dyskusja na temat powodów niepowodzeń we wdrażaniu wielkich systemów informatycznych</span>
+        <span start="841" end="842">.</span>
+        <span start="844" end="939">Różne są metody realizacji dużych przedsięwzięć informatycznych. Jedna z mniej szczęśliwych to </span>
+        <span start="979" end="1084">wybór dużej firmy informatycznej, która będzie w stanie przejąć całą odpowiedzialność za budowę systemu. </span>
+        <span start="4448" end="4633">Drogą, która w naszych realiach okazywała się dotychczas dość skuteczna, jest oddanie dobrze zdefiniowanych informatycznych zadań do wykonywania przez wyspecjalizowane zewnętrzne firmy.</span>
+        <span start="6379" end="6380"> </span>
+        <span start="6412" end="6604">Stałym elementem najbardziej fatalnych scenariuszy jest niedostrzeganie złożoności zadania informatycznego. Zwykle na początku widzi się jedynie wielką liczbę komputerów osobistych otoczonych </span>
+        <span start="6624" end="6664">peryferiami i podłączonych do lokalnych </span>
+        <span start="6681" end="6744">serwerów, a wszystko to zwieńczone wielkim serwerem centralnym.</span>
+      </spans>
+    </summary>
+    <summary ratio="20" type="extract" author="I">
+      <body>System informatyczny jest jak wodociąg - dopóki pracuje,  dopóty nie budzi zainteresowania. Dopiero w momencie awarii skupia na sobie uwagę. Przykładem może być ZUS. Od kilku lat toczy się dyskusja na temat powodów niepowodzeń we wdrażaniu wielkich systemów informatycznych.Różne są metody realizacji dużych przedsięwzięć informatycznych. Jedna z mniej szczęśliwych to rozpisanie przetargu ukierunkowanego na wybór dużej firmy informatycznej, która będzie w stanie przejąć całą odpowiedzialność za budowę systemu. Wydaje się, że im większy system, tym mniejsza szansa na osiągnięcie sukcesu tą drogą. Jako antidotum na niebezpieczeństwa związane z wdrażaniem systemów informatycznych w instytucjach wymienia się często koncepcję zakupu i zaadaptowania gotowego i sprawdzonego systemu z zachodu. Koncepcje zinformatyzowania w ten sposób państwowych instytucji często rozważano i zwykle odrzucano. Powodem był najprawdopodobniej wzrost wiedzy na temat problemów z ich realizacją. Kilkakrotnie podejmowano próby stworzenia kompleksowego systemu dla powstającej lub reorganizującej się instytucji, powołując w jej ramach zespół informatyków.  Budowanie sprawnego zespołu informatyków zawsze trwa długie lata, a żeby stworzyć dobry system informatyczny, trzeba najpierw zrobić w danej dziedzinie  system zły. Drogą, która w naszych realiach okazywała się dotychczas dość skuteczna, jest oddanie dobrze zdefiniowanych informatycznych zadań do wykonywania przez wyspecjalizowane zewnętrzne firmy. Stałym elementem najbardziej fatalnych scenariuszy jest niedostrzeganie złożoności zadania informatycznego. Zwykle na początku widzi się jedynie wielką liczbę komputerów osobistych otoczonych najprzeróżniejszymi peryferiami i podłączonych do lokalnych lub regionalnych serwerów, a wszystko to zwieńczone wielkim serwerem centralnym.</body>
+      <spans>
+        <span start="111" end="276">System informatyczny jest jak wodociąg - dopóki pracuje,  dopóty nie budzi zainteresowania. Dopiero w momencie awarii skupia na sobie uwagę. Przykładem może być ZUS.</span>
+        <span start="666" end="667"> </span>
+        <span start="677" end="784">Od kilku lat toczy się dyskusja na temat powodów niepowodzeń we wdrażaniu wielkich systemów informatycznych</span>
+        <span start="841" end="842">.</span>
+        <span start="844" end="1084">Różne są metody realizacji dużych przedsięwzięć informatycznych. Jedna z mniej szczęśliwych to rozpisanie przetargu ukierunkowanego na wybór dużej firmy informatycznej, która będzie w stanie przejąć całą odpowiedzialność za budowę systemu. </span>
+        <span start="1360" end="1447">Wydaje się, że im większy system, tym mniejsza szansa na osiągnięcie sukcesu tą drogą. </span>
+        <span start="2115" end="2200">Jako antidotum na niebezpieczeństwa związane z wdrażaniem systemów informatycznych w </span>
+        <span start="2225" end="2334">instytucjach wymienia się często koncepcję zakupu i zaadaptowania gotowego i sprawdzonego systemu z zachodu. </span>
+        <span start="2938" end="3120">Koncepcje zinformatyzowania w ten sposób państwowych instytucji często rozważano i zwykle odrzucano. Powodem był najprawdopodobniej wzrost wiedzy na temat problemów z ich realizacją.</span>
+        <span start="3129" end="3130"> </span>
+        <span start="3139" end="3299">Kilkakrotnie podejmowano próby stworzenia kompleksowego systemu dla powstającej lub reorganizującej się instytucji, powołując w jej ramach zespół informatyków. </span>
+        <span start="4042" end="4208"> Budowanie sprawnego zespołu informatyków zawsze trwa długie lata, a żeby stworzyć dobry system informatyczny, trzeba najpierw zrobić w danej dziedzinie  system zły. </span>
+        <span start="4448" end="4633">Drogą, która w naszych realiach okazywała się dotychczas dość skuteczna, jest oddanie dobrze zdefiniowanych informatycznych zadań do wykonywania przez wyspecjalizowane zewnętrzne firmy.</span>
+        <span start="6379" end="6380"> </span>
+        <span start="6412" end="6744">Stałym elementem najbardziej fatalnych scenariuszy jest niedostrzeganie złożoności zadania informatycznego. Zwykle na początku widzi się jedynie wielką liczbę komputerów osobistych otoczonych najprzeróżniejszymi peryferiami i podłączonych do lokalnych lub regionalnych serwerów, a wszystko to zwieńczone wielkim serwerem centralnym.</span>
+      </spans>
+    </summary>
+    <summary ratio="5" type="extract" author="I">
+      <body>System informatyczny jest jak wodociąg - dopóki pracuje,  dopóty nie budzi zainteresowania. Dopiero w momencie awarii skupia na sobie uwagę. toczy się dyskusja na temat powodów niepowodzeń we wdrażaniu wielkich systemów informatycznych.Różne są metody realizacji dużych przedsięwzięć informatycznych. Drogą, która okazywała się dość skuteczna, jest oddanie dobrze informatycznych zadań do wykonywania przez wyspecjalizowane zewnętrzne firmy.</body>
+      <spans>
+        <span start="111" end="252">System informatyczny jest jak wodociąg - dopóki pracuje,  dopóty nie budzi zainteresowania. Dopiero w momencie awarii skupia na sobie uwagę. </span>
+        <span start="690" end="784">toczy się dyskusja na temat powodów niepowodzeń we wdrażaniu wielkich systemów informatycznych</span>
+        <span start="841" end="842">.</span>
+        <span start="844" end="909">Różne są metody realizacji dużych przedsięwzięć informatycznych. </span>
+        <span start="4448" end="4461">Drogą, która </span>
+        <span start="4480" end="4494">okazywała się </span>
+        <span start="4505" end="4541">dość skuteczna, jest oddanie dobrze </span>
+        <span start="4556" end="4633">informatycznych zadań do wykonywania przez wyspecjalizowane zewnętrzne firmy.</span>
+      </spans>
+    </summary>
+    <summary ratio="10" type="extract" author="C">
+      <body>System informatyczny Dopiero w momencie awarii skupia na sobie uwagę. Przykładem może być ZUS.Kilkanaście lat system informatyczny ZUS działał nieprzerwanie. Przez cały ten czas prawie nikt o nim nie słyszał, nim nie zabrano się za jego unowocześnienie przy okazji reformy ubezpieczeń społecznych. 
+Od kilku lat toczy się dyskusja na temat powodów niepowodzeń we wdrażaniu wielkich systemów informatycznych.Różne są metody realizacji dużych przedsięwzięć informatycznych. Jedna z mniej szczęśliwych to rozpisanie przetargu ukierunkowanego na wybór dużej firmy informatycznej, która będzie w stanie przejąć całą odpowiedzialność za budowę systemu. niewiele daje eskalacja żądań i gwarancji w wymaganiach przetargowych, gdy przedmiotem przetargu jest dostawa, czyli wykonanie i następnie oddanie systemu w całości do eksploatacji przez zamawiającego.</body>
+      <spans>
+        <span start="111" end="132">System informatyczny </span>
+        <span start="203" end="276">Dopiero w momencie awarii skupia na sobie uwagę. Przykładem może być ZUS.</span>
+        <span start="278" end="482">Kilkanaście lat system informatyczny ZUS działał nieprzerwanie. Przez cały ten czas prawie nikt o nim nie słyszał, nim nie zabrano się za jego unowocześnienie przy okazji reformy ubezpieczeń społecznych. </span>
+        <span start="676" end="784">
+Od kilku lat toczy się dyskusja na temat powodów niepowodzeń we wdrażaniu wielkich systemów informatycznych</span>
+        <span start="841" end="842">.</span>
+        <span start="844" end="1084">Różne są metody realizacji dużych przedsięwzięć informatycznych. Jedna z mniej szczęśliwych to rozpisanie przetargu ukierunkowanego na wybór dużej firmy informatycznej, która będzie w stanie przejąć całą odpowiedzialność za budowę systemu. </span>
+        <span start="1466" end="1667">niewiele daje eskalacja żądań i gwarancji w wymaganiach przetargowych, gdy przedmiotem przetargu jest dostawa, czyli wykonanie i następnie oddanie systemu w całości do eksploatacji przez zamawiającego.</span>
+      </spans>
+    </summary>
+    <summary ratio="20" type="extract" author="C">
+      <body>System informatyczny Dopiero w momencie awarii skupia na sobie uwagę. Przykładem może być ZUS.Kilkanaście lat system informatyczny ZUS działał nieprzerwanie. Przez cały ten czas prawie nikt o nim nie słyszał, nim nie zabrano się za jego unowocześnienie przy okazji reformy ubezpieczeń społecznych. 
+Od kilku lat toczy się dyskusja na temat powodów niepowodzeń we wdrażaniu wielkich systemów informatycznych.Różne są metody realizacji dużych przedsięwzięć informatycznych. Jedna z mniej szczęśliwych to rozpisanie przetargu ukierunkowanego na wybór dużej firmy informatycznej, która będzie w stanie przejąć całą odpowiedzialność za budowę systemu. Wydaje się, że im większy system, tym mniejsza szansa na osiągnięcie sukcesu tą drogą. Najprawdopodobniej niewiele daje eskalacja żądań i gwarancji w wymaganiach przetargowych, gdy przedmiotem przetargu jest dostawa, czyli wykonanie i następnie oddanie systemu w całości do eksploatacji przez zamawiającego. Znany efekt "ucieczki dostawcy" zaowocuje nieuchronnie pozostawieniem użytkownika z problemami, gdy tylko koszty ich rozwiązywania okażą się zbyt wysokie. Jako antidotum na niebezpieczeństwa związane z wdrażaniem systemów informatycznych wymienia się często koncepcję zakupu i zaadaptowania gotowego i sprawdzonego systemu z zachodu. Zakłada się, że skoro w efekcie tego procesu powstanie organizacja zgodna z zachodnimi standardami, to któryś z istniejących zachodnich systemów będzie spełniał jej potrzeby. Polonizowanie i wdrażanie typowych systemów zarządzania produkcją w typowych przedsiębiorstwach trwa kilka lat, zwykle zdecydowanie dłużej niż zakłada się na początku, i kończy się pełnym sukcesem w niskim procencie przypadków.</body>
+      <spans>
+        <span start="111" end="132">System informatyczny </span>
+        <span start="203" end="276">Dopiero w momencie awarii skupia na sobie uwagę. Przykładem może być ZUS.</span>
+        <span start="278" end="482">Kilkanaście lat system informatyczny ZUS działał nieprzerwanie. Przez cały ten czas prawie nikt o nim nie słyszał, nim nie zabrano się za jego unowocześnienie przy okazji reformy ubezpieczeń społecznych. </span>
+        <span start="676" end="784">
+Od kilku lat toczy się dyskusja na temat powodów niepowodzeń we wdrażaniu wielkich systemów informatycznych</span>
+        <span start="841" end="842">.</span>
+        <span start="844" end="1084">Różne są metody realizacji dużych przedsięwzięć informatycznych. Jedna z mniej szczęśliwych to rozpisanie przetargu ukierunkowanego na wybór dużej firmy informatycznej, która będzie w stanie przejąć całą odpowiedzialność za budowę systemu. </span>
+        <span start="1360" end="1823">Wydaje się, że im większy system, tym mniejsza szansa na osiągnięcie sukcesu tą drogą. Najprawdopodobniej niewiele daje eskalacja żądań i gwarancji w wymaganiach przetargowych, gdy przedmiotem przetargu jest dostawa, czyli wykonanie i następnie oddanie systemu w całości do eksploatacji przez zamawiającego. Znany efekt "ucieczki dostawcy" zaowocuje nieuchronnie pozostawieniem użytkownika z problemami, gdy tylko koszty ich rozwiązywania okażą się zbyt wysokie. </span>
+        <span start="2115" end="2198">Jako antidotum na niebezpieczeństwa związane z wdrażaniem systemów informatycznych </span>
+        <span start="2238" end="2509">wymienia się często koncepcję zakupu i zaadaptowania gotowego i sprawdzonego systemu z zachodu. Zakłada się, że skoro w efekcie tego procesu powstanie organizacja zgodna z zachodnimi standardami, to któryś z istniejących zachodnich systemów będzie spełniał jej potrzeby. </span>
+        <span start="2661" end="2860">Polonizowanie i wdrażanie typowych systemów zarządzania produkcją w typowych przedsiębiorstwach trwa kilka lat, zwykle zdecydowanie dłużej niż zakłada się na początku, i kończy się pełnym sukcesem w </span>
+        <span start="2875" end="2903">niskim procencie przypadków.</span>
+      </spans>
+    </summary>
+    <summary ratio="5" type="extract" author="C">
+      <body>System informatyczny Dopiero w momencie awarii skupia na sobie uwagę. Przykładem może być ZUS. Różne są metody realizacji dużych przedsięwzięć informatycznych. Jedna z mniej szczęśliwych to rozpisanie przetargu ukierunkowanego na wybór dużej firmy informatycznej, która będzie w stanie przejąć całą odpowiedzialność za budowę systemu. niewiele daje eskalacja żądań i gwarancji, gdy przedmiotem przetargu jest dostawa, czyli wykonanie i następnie oddanie systemu do eksploatacji.</body>
+      <spans>
+        <span start="111" end="132">System informatyczny </span>
+        <span start="203" end="276">Dopiero w momencie awarii skupia na sobie uwagę. Przykładem może być ZUS.</span>
+        <span start="341" end="342"> </span>
+        <span start="844" end="1084">Różne są metody realizacji dużych przedsięwzięć informatycznych. Jedna z mniej szczęśliwych to rozpisanie przetargu ukierunkowanego na wybór dużej firmy informatycznej, która będzie w stanie przejąć całą odpowiedzialność za budowę systemu. </span>
+        <span start="1466" end="1507">niewiele daje eskalacja żądań i gwarancji</span>
+        <span start="1535" end="1621">, gdy przedmiotem przetargu jest dostawa, czyli wykonanie i następnie oddanie systemu </span>
+        <span start="1631" end="1646">do eksploatacji</span>
+        <span start="1666" end="1667">.</span>
+      </spans>
+    </summary>
+    <summary ratio="10" type="extract" author="E">
+      <body>System informatyczny dopóki pracuje, nie budzi zainteresowania. Dopiero w momencie awarii skupia na sobie uwagę. Przykładem może być ZUS. Od kilku lat toczy się dyskusja na temat powodów niepowodzeń we wdrażaniu wielkich systemów informatycznych.Różne są metody realizacji. Stałym elementem najbardziej fatalnych scenariuszy jest niedostrzeganie złożoności zadania informatycznego. 
+Prawie każda resortowa reforma czy reorganizacja zawiera w sobie konieczność stworzenia ogólnokrajowego systemu informatycznego. Perspektywa wejścia do Unii Europejskiej zjawisko to nasili. Kolejne poważne informatyczne przedsięwzięcia będą podejmowane pod presją czasu. W przygotowywanych w pośpiechu dokumentach pojawią się chybione wymagania i nierealne terminy. Do wydania są duże unijne pieniądze. Żądania szybkich efektów łatwo zaowocują powielaniem ogólnie znanych scenariuszy. Dotychczas przynosiły one tylko niepowodzenia.</body>
+      <spans>
+        <span start="111" end="132">System informatyczny </span>
+        <span start="152" end="168">dopóki pracuje, </span>
+        <span start="176" end="276">nie budzi zainteresowania. Dopiero w momencie awarii skupia na sobie uwagę. Przykładem może być ZUS.</span>
+        <span start="341" end="342"> </span>
+        <span start="677" end="784">Od kilku lat toczy się dyskusja na temat powodów niepowodzeń we wdrażaniu wielkich systemów informatycznych</span>
+        <span start="841" end="842">.</span>
+        <span start="844" end="870">Różne są metody realizacji</span>
+        <span start="907" end="909">. </span>
+        <span start="6412" end="6520">Stałym elementem najbardziej fatalnych scenariuszy jest niedostrzeganie złożoności zadania informatycznego. </span>
+        <span start="7963" end="7964">
+</span>
+        <span start="8218" end="8532">Prawie każda resortowa reforma czy reorganizacja zawiera w sobie konieczność stworzenia ogólnokrajowego systemu informatycznego. Perspektywa wejścia do Unii Europejskiej zjawisko to nasili. Kolejne poważne informatyczne przedsięwzięcia będą podejmowane pod presją czasu. W przygotowywanych w pośpiechu dokumentach </span>
+        <span start="8546" end="8616">pojawią się chybione wymagania i nierealne terminy. Do wydania są duże</span>
+        <span start="8630" end="8777"> unijne pieniądze. Żądania szybkich efektów łatwo zaowocują powielaniem ogólnie znanych scenariuszy. Dotychczas przynosiły one tylko niepowodzenia.</span>
+      </spans>
+    </summary>
+    <summary ratio="20" type="extract" author="E">
+      <body>System informatyczny dopóki pracuje, nie budzi zainteresowania. Dopiero w momencie awarii skupia na sobie uwagę. Przykładem może być ZUS.
+Kilkanaście lat system informatyczny ZUS działał nieprzerwanie. Od kilku lat toczy się dyskusja na temat powodów niepowodzeń we wdrażaniu wielkich systemów informatycznych.
+Różne są metody realizacji. Jedna z mniej szczęśliwych to rozpisanie przetargu ukierunkowanego na wybór dużej firmy informatycznej, która będzie w stanie przejąć całą odpowiedzialność za budowę systemu. Wydaje się, że im większy system, tym mniejsza szansa na osiągnięcie sukcesu tą drogą. Jako antidotum na niebezpieczeństwa związane z wdrażaniem systemów informatycznych wymienia się często koncepcję zakupu i zaadaptowania gotowego i sprawdzonego systemu z zachodu. Zakłada się, że  któryś z istniejących zachodnich systemów będzie spełniałj potrzeby. Koncepcje zinformatyzowania w ten sposób państwowych instytucji często rozważano i zwykle odrzucano. Powodem był najprawdopodobniej wzrost wiedzy na temat problemów z ich realizacją.
+Kilkakrotnie podejmowano próby stworzenia kompleksowego systemu dla powstającej lub reorganizującej się instytucji, powołując w jej ramach zespół informatyków. 
+Stałym elementem najbardziej fatalnych scenariuszy jest niedostrzeganie złożoności zadania informatycznego. 
+Prawie każda resortowa reforma czy reorganizacja zawiera w sobie konieczność stworzenia ogólnokrajowego systemu informatycznego. Perspektywa wejścia do Unii Europejskiej zjawisko to nasili. Kolejne poważne informatyczne przedsięwzięcia będą podejmowane pod presją czasu. W przygotowywanych w pośpiechu dokumentach pojawią się chybione wymagania i nierealne terminy. Do wydania są duże unijne pieniądze. Żądania szybkich efektów łatwo zaowocują powielaniem ogólnie znanych scenariuszy. Dotychczas przynosiły one tylko niepowodzenia.</body>
+      <spans>
+        <span start="111" end="132">System informatyczny </span>
+        <span start="152" end="168">dopóki pracuje, </span>
+        <span start="176" end="276">nie budzi zainteresowania. Dopiero w momencie awarii skupia na sobie uwagę. Przykładem może być ZUS.</span>
+        <span start="277" end="342">
+Kilkanaście lat system informatyczny ZUS działał nieprzerwanie. </span>
+        <span start="677" end="784">Od kilku lat toczy się dyskusja na temat powodów niepowodzeń we wdrażaniu wielkich systemów informatycznych</span>
+        <span start="841" end="842">.</span>
+        <span start="843" end="870">
+Różne są metody realizacji</span>
+        <span start="907" end="1084">. Jedna z mniej szczęśliwych to rozpisanie przetargu ukierunkowanego na wybór dużej firmy informatycznej, która będzie w stanie przejąć całą odpowiedzialność za budowę systemu. </span>
+        <span start="1360" end="1447">Wydaje się, że im większy system, tym mniejsza szansa na osiągnięcie sukcesu tą drogą. </span>
+        <span start="2115" end="2198">Jako antidotum na niebezpieczeństwa związane z wdrażaniem systemów informatycznych </span>
+        <span start="2238" end="2350">wymienia się często koncepcję zakupu i zaadaptowania gotowego i sprawdzonego systemu z zachodu. Zakłada się, że </span>
+        <span start="2436" end="2494"> któryś z istniejących zachodnich systemów będzie spełniał</span>
+        <span start="2497" end="2509">j potrzeby. </span>
+        <span start="2938" end="3121">Koncepcje zinformatyzowania w ten sposób państwowych instytucji często rozważano i zwykle odrzucano. Powodem był najprawdopodobniej wzrost wiedzy na temat problemów z ich realizacją.
+</span>
+        <span start="3139" end="3299">Kilkakrotnie podejmowano próby stworzenia kompleksowego systemu dla powstającej lub reorganizującej się instytucji, powołując w jej ramach zespół informatyków. </span>
+        <span start="6411" end="6520">
+Stałym elementem najbardziej fatalnych scenariuszy jest niedostrzeganie złożoności zadania informatycznego. </span>
+        <span start="7963" end="7964">
+</span>
+        <span start="8218" end="8532">Prawie każda resortowa reforma czy reorganizacja zawiera w sobie konieczność stworzenia ogólnokrajowego systemu informatycznego. Perspektywa wejścia do Unii Europejskiej zjawisko to nasili. Kolejne poważne informatyczne przedsięwzięcia będą podejmowane pod presją czasu. W przygotowywanych w pośpiechu dokumentach </span>
+        <span start="8546" end="8616">pojawią się chybione wymagania i nierealne terminy. Do wydania są duże</span>
+        <span start="8630" end="8777"> unijne pieniądze. Żądania szybkich efektów łatwo zaowocują powielaniem ogólnie znanych scenariuszy. Dotychczas przynosiły one tylko niepowodzenia.</span>
+      </spans>
+    </summary>
+    <summary ratio="5" type="extract" author="E">
+      <body>Prawie każda resortowa reforma czy reorganizacja zawiera w sobie konieczność stworzenia ogólnokrajowego systemu informatycznego. Perspektywa wejścia do Unii Europejskiej zjawisko to nasili. Kolejne informatyczne przedsięwzięcia będą podejmowane pod presją czasu. W przygotowywanych w pośpiechu dokumentach pojawią się chybione wymagania i nierealne terminy. Żądania szybkich efektów łatwo zaowocują powielaniem ogólnie znanych scenariuszy. Dotychczas przynosiły one tylko niepowodzenia.</body>
+      <spans>
+        <span start="8218" end="8416">Prawie każda resortowa reforma czy reorganizacja zawiera w sobie konieczność stworzenia ogólnokrajowego systemu informatycznego. Perspektywa wejścia do Unii Europejskiej zjawisko to nasili. Kolejne </span>
+        <span start="8424" end="8532">informatyczne przedsięwzięcia będą podejmowane pod presją czasu. W przygotowywanych w pośpiechu dokumentach </span>
+        <span start="8546" end="8598">pojawią się chybione wymagania i nierealne terminy. </span>
+        <span start="8649" end="8777">Żądania szybkich efektów łatwo zaowocują powielaniem ogólnie znanych scenariuszy. Dotychczas przynosiły one tylko niepowodzenia.</span>
+      </spans>
+    </summary>
+  </summaries>
+</text>
